@@ -5,8 +5,8 @@ theme:
   name: material
   palette:
     primary: black
-  #logo: https://raw.githubusercontent.com/sitmun/community/master/Isotip%20SITMUN/PNG/02.principal-transparent-28x28.png
-  #favicon: https://raw.githubusercontent.com/sitmun/community/master/Isotip%20SITMUN/PNG/02.principal-transparent-28x28.png
+  logo: https://avatars.githubusercontent.com/u/14181850?s=400&u=c7b83ff172982a0ec438aa75c75532956e86ab1e&v=4
+  favicon: https://avatars.githubusercontent.com/u/14181850?s=400&u=c7b83ff172982a0ec438aa75c75532956e86ab1e&v=4
   features:
     - announce.dismiss
     - content.action.edit
