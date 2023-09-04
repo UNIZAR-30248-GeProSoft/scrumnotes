@@ -1,7 +1,7 @@
 site_name: Apuntes de Gestión de Proyectos Software
-#repo_url: https://github.com/sitmun/sitmun.github.io
-#repo_name: sitmun/sitmun.github.io
-#site_url: https://sitmun.github.io
+repo_url: https://github.com/UNIZAR-30248-GeProSoft/scrumnotes
+repo_name: UNIZAR-30248-GeProSoft/scrumnotes
+site_url: https://unizar-30248-geprosoft.github.io/scrumnotes
 
 theme:
   name: material
@@ -21,7 +21,7 @@ theme:
     # - navigation.expand
     - navigation.footer
     - navigation.indexes
-    - navigation.instant
+    # - navigation.instant
     # - navigation.prune
     - navigation.sections
     - navigation.tabs
@@ -49,7 +49,7 @@ plugins:
      # Table of contents
      add_table_of_contents: true
      toc_title: 'Table of Contents'
-     toc_depth: 6
+     toc_depth: 3
 
 nav:
   - Inicio: index.md
@@ -104,4 +104,3 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-#  - markdown_grid_tables
