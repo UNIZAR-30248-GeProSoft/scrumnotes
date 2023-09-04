@@ -1,0 +1,107 @@
+site_name: Apuntes de Gestión de Proyectos Software
+#repo_url: https://github.com/sitmun/sitmun.github.io
+#repo_name: sitmun/sitmun.github.io
+#site_url: https://sitmun.github.io
+
+theme:
+  name: material
+  palette:
+    primary: black
+  #logo: https://raw.githubusercontent.com/sitmun/community/master/Isotip%20SITMUN/PNG/02.principal-transparent-28x28.png
+  #favicon: https://raw.githubusercontent.com/sitmun/community/master/Isotip%20SITMUN/PNG/02.principal-transparent-28x28.png
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    - navigation.instant
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
+  language: es
+  icon:
+    repo: fontawesome/brands/github
+    admonition:
+      info: octicons/browser-16
+
+plugins:
+  - search
+  - render_swagger
+  - autorefs  
+  - print-site:  # Must be the last plugin listed here
+     add_to_navigation: true
+     print_page_title: 'Versión Imprimible'
+     # Table of contents
+     add_table_of_contents: true
+     toc_title: 'Table of Contents'
+     toc_depth: 6
+
+nav:
+  - Inicio: index.md
+  - Introducción: 7i_GPS-S01-Scrum-Introducción.md
+  - Principios ágiles: 7i_GPS-S02-Scrum-PrincipiosÁgiles.md
+  - Detectar falso agilismo (agile bullshit): 7i_GPS-S02b-Scrum-PrincipiosÁgiles-DetectingAgileBullshit.md
+  - Sprints: 7i_GPS-S03-Scrum-Sprints.md
+  - Requisitos e historias de usuario: 7i_GPS-S04-Scrum-RequisitosHistoriasUsuario.md
+  - La pila del producto: 7i_GPS-S05-Scrum-PilaDelProducto.md
+  - Estimación y velocidad: 7i_GPS-S06-Scrum-EstimaciónVelocidad.md
+  - Planificación: 7i_GPS-S07-Scrum-Planificación.md
+  - Sprints en detalle: 7i_GPS-S08-Scrum-SprintsEnDetalle.md 
+  - Roles en detalle: 7i_GPS-S09-Scrum-RolesEnDetalle.md
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+#  - markdown_grid_tables
