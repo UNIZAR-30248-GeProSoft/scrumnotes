@@ -16,13 +16,13 @@ theme:
     # - content.tabs.link
     - content.tooltips
     # - header.autohide
-    # - navigation.expand
+    - navigation.expand
     - navigation.footer
     - navigation.indexes
-    # - navigation.instant
+    - navigation.instant
     # - navigation.prune
-    - navigation.sections
-    - navigation.tabs
+    # - navigation.sections
+    # - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
@@ -30,7 +30,7 @@ theme:
     - search.share
     - search.suggest
     - toc.follow
-    # - toc.integrate
+    - toc.integrate
   language: es
   icon:
     repo: fontawesome/brands/github
