@@ -16,7 +16,7 @@ theme:
     # - content.tabs.link
     - content.tooltips
     # - header.autohide
-    - navigation.expand
+    # - navigation.expand
     - navigation.footer
     - navigation.indexes
     - navigation.instant
@@ -39,15 +39,15 @@ theme:
 
 plugins:
   - search
-  - render_swagger
-  - autorefs  
-  - print-site:  # Must be the last plugin listed here
-     add_to_navigation: true
-     print_page_title: 'Versión Imprimible'
-     # Table of contents
-     add_table_of_contents: true
-     toc_title: 'Table of Contents'
-     toc_depth: 3
+  # - render_swagger
+  # - autorefs  
+  # - print-site:  # Must be the last plugin listed here
+  #   add_to_navigation: true
+  #   print_page_title: 'Versión Imprimible'
+  #   # Table of contents
+  #   add_table_of_contents: true
+  #   toc_title: 'Table of Contents'
+  #   toc_depth: 3
 
 nav:
   - Inicio: index.md
