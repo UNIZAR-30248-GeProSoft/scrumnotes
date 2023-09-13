@@ -52,15 +52,13 @@ plugins:
 nav:
   - Inicio: index.md
   - Introducción: 7i_GPS-S01-Scrum-Introducción.md
-  - Principios ágiles: 7i_GPS-S02-Scrum-PrincipiosÁgiles.md
-  - Detectar falso agilismo (agile bullshit): 7i_GPS-S02b-Scrum-PrincipiosÁgiles-DetectingAgileBullshit.md
-  - Sprints: 7i_GPS-S03-Scrum-Sprints.md
-  - Requisitos e historias de usuario: 7i_GPS-S04-Scrum-RequisitosHistoriasUsuario.md
-  - La pila del producto: 7i_GPS-S05-Scrum-PilaDelProducto.md
+  - Principios ágiles: 7i_GPS-S02-Scrum-PrincipiosÁgiles.md  
+    - Requisitos e historias de usuario: 7i_GPS-S03-Scrum-RequisitosHistoriasUsuario.md
+  - La pila del producto: 7i_GPS-S04-Scrum-PilaDelProducto.md
+  - Sprints: 7i_GPS-S05-Scrum-Sprints.md 
   - Estimación y velocidad: 7i_GPS-S06-Scrum-EstimaciónVelocidad.md
-  - Planificación: 7i_GPS-S07-Scrum-Planificación.md
-  - Sprints en detalle: 7i_GPS-S08-Scrum-SprintsEnDetalle.md 
-  - Roles en detalle: 7i_GPS-S09-Scrum-RolesEnDetalle.md
+  - Planificación: 7i_GPS-S07-Scrum-Planificación.md  
+  - Roles: 7i_GPS-S09-Scrum-Roles.md
 
 markdown_extensions:
   - abbr
