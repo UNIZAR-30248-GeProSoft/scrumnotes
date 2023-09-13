@@ -1,4 +1,4 @@
-# 7i_GPS-S04-Scrum-RequisitosHistoriasUsuario
+# 7i_GPS-S03-Scrum-RequisitosHistoriasUsuario
 
 
 
@@ -403,12 +403,12 @@ Requisitos no funcionales y adquisición de conocimiento
 ## 
 
 
-![](media/7i_GPS-S04-Scrum-RequisitosHistoriasUsuario-p48-0.png)
+![](media/7i_GPS-S03-Scrum-RequisitosHistoriasUsuario-p48-0.png)
 
 ## 
 
 Actividades grandes, de valor económico para el usuario Los temas se  ordenan en secuencia siguiendo  flujos de trabajo  comunes que siguen  los usuarios dentro  de la épica Cada tema se descompone en historias implementables ordenadas por prioridad (más bien deseabilidad; aún no las hemos estimado). No todas las historias de un tema tienen que ser implementadas en la misma versión
-![](media/7i_GPS-S04-Scrum-RequisitosHistoriasUsuario-p49-0.png)
+![](media/7i_GPS-S03-Scrum-RequisitosHistoriasUsuario-p49-0.png)
 
 ## Ejercicio: Story Spines
 

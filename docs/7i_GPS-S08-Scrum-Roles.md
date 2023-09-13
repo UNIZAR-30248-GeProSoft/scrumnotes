@@ -1,4 +1,4 @@
-# 7i_GPS-S09-Scrum-RolesEnDetalle
+# 7i_GPS-S08-Scrum-Roles
 
 
 
@@ -57,7 +57,7 @@ El dueño del producto
 ## 
 
 
-![](media/7i_GPS-S09-Scrum-RolesEnDetalle-p7-0.png)
+![](media/7i_GPS-S08-Scrum-Roles-p7-0.png)
 
 ## <u>¿Quién debería ser dueño del producto?</u>
 
@@ -440,7 +440,7 @@ Directores de proyecto
 ## 
 
 
-![](media/7i_GPS-S09-Scrum-RolesEnDetalle-p42-0.svm)
+![](media/7i_GPS-S08-Scrum-Roles-p42-0.svm)
 
 ## Directores de proyecto
 
@@ -528,7 +528,7 @@ Estructuración de equipos Scrum
 ## 
 
 PBI funcionales PBI técnicas Por ejemplo: 
-![](media/7i_GPS-S09-Scrum-RolesEnDetalle-p52-0.png)
+![](media/7i_GPS-S08-Scrum-Roles-p52-0.png)
 
 ## <u>¿Equipos de características o de componentes?</u>
 
@@ -545,7 +545,7 @@ PBI funcionales PBI técnicas Por ejemplo:
 ## 
 
 PBI funcionales PBI técnicas PBI técnicas PBI técnicas
-![](media/7i_GPS-S09-Scrum-RolesEnDetalle-p54-0.png)
+![](media/7i_GPS-S08-Scrum-Roles-p54-0.png)
 
 ## <u>Coordinación de múltiples equipos: Scrum de Scrums</u>
 
@@ -567,7 +567,7 @@ PBI funcionales PBI técnicas PBI técnicas PBI técnicas
 ## 
 
 3 áreas de  características cada una con su pila. Los  equipos de un área se coordinan en cada sprint p.ej. con  Scrum de Scrums 9 equipos Scrum Lanzamientos  planificados (“salida del tren”) Complejas; participan todos los equipos que  tienen que hacer sprint mapping coordinado
-![](media/7i_GPS-S09-Scrum-RolesEnDetalle-p57-0.png)
+![](media/7i_GPS-S08-Scrum-Roles-p57-0.png)
 
 ## Coordinación de múltiples equipos: Tren de lanzamientos
 
@@ -611,5 +611,5 @@ PBI funcionales PBI técnicas PBI técnicas PBI técnicas
 ## 
 
 
-![](media/7i_GPS-S09-Scrum-RolesEnDetalle-p61-0.png)
+![](media/7i_GPS-S08-Scrum-Roles-p61-0.png)
 

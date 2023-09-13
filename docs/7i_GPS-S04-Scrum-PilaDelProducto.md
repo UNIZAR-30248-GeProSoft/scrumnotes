@@ -1,4 +1,4 @@
-# 7i_GPS-S05-Scrum-PilaDelProducto
+# 7i_GPS-S04-Scrum-PilaDelProducto
 
 
 
@@ -90,7 +90,7 @@ DEEP
 ## 
 
 
-![](media/7i_GPS-S05-Scrum-PilaDelProducto-p11-0.png)
+![](media/7i_GPS-S04-Scrum-PilaDelProducto-p11-0.png)
 
 ##  Preparación  Grooming
 
@@ -156,7 +156,7 @@ Gestión de flujos de trabajo ( flow management )
 ## 
 
 
-![](media/7i_GPS-S05-Scrum-PilaDelProducto-p19-0.png)
+![](media/7i_GPS-S04-Scrum-PilaDelProducto-p19-0.png)
 
 ## Gestión del flujo hacia los lanzamientos (release flow)
 
@@ -172,12 +172,12 @@ Gestión de flujos de trabajo ( flow management )
 ## 
 
 
-![](media/7i_GPS-S05-Scrum-PilaDelProducto-p21-0.png)
+![](media/7i_GPS-S04-Scrum-PilaDelProducto-p21-0.png)
 
 ## 
 
 Lanzamiento 1 Lanzamientos 2, 3...
-![](media/7i_GPS-S05-Scrum-PilaDelProducto-p22-0.png)
+![](media/7i_GPS-S04-Scrum-PilaDelProducto-p22-0.png)
 
 ## Gestión del flujo hacia el sprint
 
@@ -218,7 +218,7 @@ Lanzamiento 1 Lanzamientos 2, 3...
 ## 
 
 
-![](media/7i_GPS-S05-Scrum-PilaDelProducto-p27-0.png)
+![](media/7i_GPS-S04-Scrum-PilaDelProducto-p27-0.png)
 
 ## Un producto grande, muchos equipos y pilas jerárquicas
 
@@ -237,11 +237,11 @@ Lanzamiento 1 Lanzamientos 2, 3...
 ## 
 
 PBI más refinadas PBI épicas Cliente Android Cliente iOS Back-End
-![](media/7i_GPS-S05-Scrum-PilaDelProducto-p29-0.png)
-![](media/7i_GPS-S05-Scrum-PilaDelProducto-p29-1.png)
-![](media/7i_GPS-S05-Scrum-PilaDelProducto-p29-2.png)
-![](media/7i_GPS-S05-Scrum-PilaDelProducto-p29-3.png)
-![](media/7i_GPS-S05-Scrum-PilaDelProducto-p29-4.png)
+![](media/7i_GPS-S04-Scrum-PilaDelProducto-p29-0.png)
+![](media/7i_GPS-S04-Scrum-PilaDelProducto-p29-1.png)
+![](media/7i_GPS-S04-Scrum-PilaDelProducto-p29-2.png)
+![](media/7i_GPS-S04-Scrum-PilaDelProducto-p29-3.png)
+![](media/7i_GPS-S04-Scrum-PilaDelProducto-p29-4.png)
 
 ## Varios productos y un único equipo
 
@@ -263,5 +263,5 @@ PBI más refinadas PBI épicas Cliente Android Cliente iOS Back-End
 ## 
 
 
-![](media/7i_GPS-S05-Scrum-PilaDelProducto-p32-0.png)
+![](media/7i_GPS-S04-Scrum-PilaDelProducto-p32-0.png)
 

@@ -24,57 +24,59 @@ Desarrollo dirigido por planes
 ## Desarrollo dirigido por planes
 
 
--  Tradicional, secuencial, predictivo, prescriptivo...
--  Se planifica todo lo que el usuario querría en el producto final, y se determina cómo construirlo
--  Cuanto mejor sea la planificación, mejor se entenderá el problema y por lo tanto mejor se podrá llevar a cabo
-    -  Esta es la idea principal
+-  Tradicional, secuencial, predictivo, prescriptivo…
+    -  Analiza (comprende) → diseña → implementa → prueba → despliega/entrega
+-  Se planifica todo lo que se querría en el producto final, y se determina cómo construirlo
+-  Se asume que cuanto mejor sea la planificación, mejor se entenderá el problema y por lo tanto mejor se podrá llevar a cabo
 -  Se adapta bien a problemas claramente definidos, predecibles y que no van a cambiar significativamente
-    -  Hay poco  feedback , y llega tarde
+    -  Porque habrá poco  feedback , y llegará tarde
 -  El problema es que muchos desarrollos de productos son todo menos predecibles
     -  Especialmente al principio
 
 ## Desarrollo dirigido por planes
 
 
--  Analiza (comprende) → diseña → implementa → prueba → despliega
--  Parece que tiene sentido.  Debería  funcionar
-    -  Y si no funciona, se sigue insistiendo    
+-  Este planteamiento parece que tiene sentido y que, por tanto,  debería  funcionar
+    -  Si no funciona, se sigue insistiendo    
         -  “ Algo habremos hecho mal porque esto  debería  funcionar”
--  Probablemente el problema no es que se haya hecho nada mal
--  El problema es que este modelo  está basado en  creencias  que no suelen ser ciertas  en el desarrollo de productos
-    -  Especialmente una: que podemos predecir y entender por anticipado todo lo que es relevante para el desarrollo de ese producto
+-  Pero cuando esto no funciona suele ser, en buena medida, porque este modelo  está basado en  creencias  que no suelen ser ciertas  en el desarrollo de productos (mínimamente innovadores)
+    -  Especialmente una, que es la de que podemos predecir y entender por anticipado todo lo que es relevante para el desarrollo de ese producto
+
+## 
+
+
+![](media/7i_GPS-S02-Scrum-PrincipiosÁgiles-p6-0.png)
 
 ## ¿De veras?
 
 
--  ¿Ya sabe tu cliente (quizás eres tú mismo) todos los requisitos que va a tener tu producto? 
-    -  ¿Y te los puede explicar con el detalle suficiente como para implementarlos? ¿El primer día/semana/mes?
-    -  ¿Y no va cambiar de opinión cuando vea el primer prototipo? Ah, no, que no le vas a enseñar ninguno... ¿Cuando vea un producto de la competencia, o la próxima versión de iOS, o un anuncio de detergente en TV o a su hijo jugar con la tablet?
--  ¿Ya sabes cuáles van a ser tus usuarios?
--  ¿Ya sabes cómo van a reaccionar a tu producto?
+-  ¿Ya sabe tu clienta (quizás eres tú misma) todos los requisitos que va a tener tu producto?
+    -  ¿Y te los puede explicar, con el detalle suficiente como para implementarlos, el primer día/semana/mes?
+    -  ¿Y no va cambiar de opinión cuando vea el primer prototipo? Ah, no, que no le vas a enseñar ningún prototipo...     
+        -  Pues cuando vea un producto de la competencia, o la próxima versión de Android...
+-  ¿Ya sabes cuáles van a ser tus usuarios y cómo van a reaccionar a tu producto?
     -  ¿Reaccionarán todos igual, o variará por grupos, conocimientos, mercados...?
-    -  Supongo que no quieres hacer un producto fantástico que nadie quiere
+    -  Porque supongo que no quieres hacer un producto “fantástico” que nadie quiere
 
 ## ¿De veras?
 
 
 -  ¿Conoces todas las tecnologías que vas a usar? ¿Y cómo van a evolucionar (o a dejar de hacerlo) mientras tú desarrollas tu producto?
-    -  Lenguaje de programación (p.ej. Python), plataforma (p.ej. JVM), framework (p.ej. Ruby on Rails), SO (escritorio[s]/móvil[es]), navegador web, bibliotecas de software...
--  ¿Ninguno de tus desarrolladores se va a ir a mitad del proyecto? ¿Tampoco vas a contratar a alguien nuevo?
+-  ¿Nadie de tus equipos de desarrollo se va a ir a mitad del proyecto?
+    -  ¿Tampoco vas a contratar a alguien nuevo?
 -  Y aunque supieras todo lo anterior, ¿eres capaz de predecir antes de empezar todas las posibles interacciones y problemas que pueden surgir?
     -  Ni el conocimiento, ni la experiencia, ni herramientas, métodos o análisis de riesgos, te permiten anticipar todos los “ unknown unknowns ”
 
-##  En resumen
-- 
--  Tu producto es más complejo de lo que puedes entender al principio
-- 
--  Tienes un entorno que no puedes controlar ni predecir, y que te influye mucho
+## En resumen
 
- En resumen
-- 
+
 -  Tu producto es más complejo de lo que puedes entender al principio
-- 
--  Tienes un entorno que no puedes controlar ni predecir, y que te influye mucho
+-  Tienes un entorno que no puedes controlar ni predecir, pero que te influye mucho
+
+## 
+
+
+![](media/7i_GPS-S02-Scrum-PrincipiosÁgiles-p10-0.png)
 
 ##  Principios ágiles en Scrum
 
@@ -87,10 +89,11 @@ Principio 1. Variabilidad e incertidumbre
 ## Variabilidad e incertidumbre
 
 
--  Con Scrum puedes aprovechar la variabilidad y la incertidumbre en el desarrollo de productos para crear soluciones innovadoras. Para ello:
+-  Con Scrum puedes aprovechar la variabilidad y la incertidumbre en el desarrollo de productos para crear soluciones innovadoras
+-  Como vamos a ver a continuación:
     -  Acepta la variabilidad útil
     -  Usa un desarrollo iterativo e incremental
-    -  Aprovecha la variabilidad mediante inspección, adaptación y transparencia
+    -  Aprovecha la variabilidad útil
     -  Reduce las incertidumbres
 
 ## Acepta la variabilidad útil
@@ -102,54 +105,52 @@ Principio 1. Variabilidad e incertidumbre
         -  Por ejemplo, la pintura o el tipo de llantas, en una cadena de montaje de automóviles
 -  En  desarrollo  el objetivo es crear una única instancia de un producto
 -  Esta instancia es análoga a una receta
-    -  Y no queremos inventar la misma receta dos veces
--  La variabilidad aparece porque
-    -  Creas un producto nuevo cada vez
-    -  Cada característica de un producto es distinta a cualquier otra del mismo producto
+    -  No queremos crear la misma receta dos veces
+-  La variabilidad en el desarrollo aparece porque
+    -  Cada desarrollo de producto es de un producto nuevo
+    -  Y dentro de un único producto, cada una de sus características es distinta a las demás
 
 ## Desarrollo iterativo e incremental
 
 
 -  Iterativo
-    -  Entenderemos las cosas mal antes de entenderlas bien, y las haremos mal antes de hacerlas bien
+    -  Entenderemos las cosas mal antes de entenderlas bien
     -  Por tanto planificamos múltiples pasadas para mejorar lo que hacemos hasta llegar a una buena solución
     -  Prototipo → prototipo mejorado → … → primera versión → … → versión final
+    -  En Scrum trabajamos en sprints
 -  Incremental
-    -  Dividimos el producto en partes pequeñas, y las vamos construyendo, y probando y encajando
-    -  Esto nos proporciona información muy valiosa sobre lo que estamos haciendo, para que podamos adaptarnos
+    -  El producto completo será un sistema complejo
+    -  Por tanto dividimos el producto en partes pequeñas, y las vamos construyendo, probando y encajando, paso a paso
+    -  En Scrum, en cada sprint se aborda un incremento del producto que estamos desarrollando
 
 ## Ley de Gall
 
 A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system John Gall (1975),  Systemantics: How Systems Really Work and How they Fail , p.70 De cada sistema complejo que funciona se descubre invariablemente que ha evolucionado a partir de un sistema simple que ya funcionaba. Un sistema complejo diseñado de cero nunca funciona y no se puede parchear para hacer que funcione. Tienes que empezar de nuevo con un sistema simple que funciona
 
-## Desarrollo iterativo e incremental en Scrum
-
-
--  En cada  sprint  se crea un incremento de producto
-    -  Algo de análisis, diseño, implementación, integración y pruebas en cada  sprint
--  En el plazo (fijado y corto) de un  sprint , comprobamos si nuestro análisis es correcto, si el diseño funciona, si la implementación es factible...
-    -  E intercambiamos  feedback  con el cliente
-
 ## Aprovecha la variabilidad
 
 
--  Mediante inspección, adaptación y transparencia
 -  Scrum acepta que el proceso necesario para crear algo nuevo es complejo y desafía una definición completa a priori
-    -  Por lo tanto, genera  feedback  pronto y frecuentemente para asegurarse de que se construye el producto correcto y que se construye correctamente
+    -  Esto es la variabilidad
+-  Y aprovecha esto (variabilidad útil)
+    -  Obteniendo  feedback  frecuentemente para asegurarse de que se construye el producto correcto y que se construye correctamente
 -  Para ello se basa en la transparencia
-    -  La información importante está disponible para los que crean el producto
--  La transparencia permite la inspección, que es un requisito para la adaptación
-    -  También lleva a más comunicación y confianza (en el proceso y entre los miembros del equipo)
+    -  La información importante está disponible para quienes crean el producto y para quienes lo van a usar
+-  La transparencia permite la inspección, que es el paso previo para la adaptación
+    -  Y además mejora la comunicación y la confianza, tanto en el proceso como entre los miembros del equipo
 
 ## Reduce la incertidumbre
 
 
--  Incertidumbre de fines
-    -  Sobre las características del producto final
--  Incertidumbre de medios
-    -  Sobre el proceso y las tecnologías usados para desarrollar el producto
--  Incertidumbre de clientes
-    -  Sobre quién usará el producto (típica por ejemplo en  start-ups )
+-  Las incertidumbres son las dudas sobre el producto que estamos desarrollando que inevitablemente vamos a tener, salvo que sea muy simple
+    -  Hemos mencionado algunos ejemplos antes
+-  Podemos clasificarlas en:
+    -  Incertidumbre de fines    
+        -  Sobre las características del producto final
+    -  Incertidumbre de medios    
+        -  Sobre el proceso y las tecnologías usados para desarrollar el producto
+    -  Incertidumbre de clientes    
+        -  Sobre quién usará el producto (común en productos muy innovadores)
 
 ## Reduce la incertidumbre
 
@@ -178,7 +179,6 @@ Principio 2. Predicción y adaptación
     -  Acepta que no lo puedes entender todo bien por adelantado
     -  Favorece una aproximación adaptativa y explorativa
     -  Acepta el cambio de forma sensata
-    -  Equilibra el trabajo por adelantado con el trabajo adaptable y  just-in-time
     -  Usa aprendizaje validado
 
 ## Mantén opciones abiertas
@@ -188,71 +188,72 @@ Principio 2. Predicción y adaptación
     -  Aún cuando solo se tenga un conocimiento limitado de la situación
 -  Scrum no exige tomar decisiones prematuras porque lo dicte un proceso
     -  Se toman en el último momento responsable ( last responsible moment )
--  ¿Cual es el último momento responsable?
--  Justo antes de que el coste de no tomar la decisión sea mayor que el de tomarla
-    -  Determinar cuándo es este momento no es obvio
+-  El último momento responsables es justo antes de que el coste de no tomar la decisión sea mayor que el de tomarla
+    -  No hay un mecanismo para poder saber cuándo ha llegado este momento, pero simplemente comprender este concepto nos permite retrasar decisiones y por tanto mantener opciones abiertas
 
 ## 
 
 
-![](media/7i_GPS-S02-Scrum-PrincipiosÁgiles-p23-0.png)
+![](media/7i_GPS-S02-Scrum-PrincipiosÁgiles-p24-0.png)
 
-## Acepta que no lo puedes entender bien por adelantado
+## Acepta que no lo puedes entender todo por adelantado
 
 
--  Si ni siquiera vas a tener todos los requisitos, ¿cómo vas a crear planes detallados correctos por adelantado?
--  Scrum acepta esto con entusiasmo
-    -  Mucho de lo que necesitas saber solo surgirá más adelante
--  Con Scrum, se documentan requisitos y planes por adelantado
-    -  Pero solo lo suficiente  para empezar, y con la asunción de que completaremos los detalles cuando sepamos más sobre el producto que estamos creando
+-  Ya hemos visto antes (principio 1) que la incertidumbre es inevitable
+-  En lugar de tratar de luchar contra ello, Scrum lo acepta con entusiasmo
+    -  Con Scrum aceptamos con normalidad que mucho de lo que podrías querer saber ahora solo surgirá más adelante
+-  Con Scrum, sí se documentan requisitos y planes por adelantado
+    -  Pero solo lo necesario  para empezar a trabajar
+    -  Entendiendo que completaremos los detalles cuando sepamos más sobre el producto que estamos creando
 
 ## Favorece una aproximación adaptativa y explorativa
 
 
--  En desarrollo tradicional usas lo que sabes y predices lo que no
--  En Scrum te adaptas conforme hay cambios y aplicas una  exploración apropiada
+-  El desarrollo tradicional se vasa en usar lo que sabes y predecir/estimar lo que no
+-  En Scrum, en lugar de tratar de predecir/estimar, lo que haces es  explorar
     -  Explorar es obtener conocimiento haciendo algo    
         -  Crear un prototipo, una prueba de concepto, realizar un estudio o llevar a cabo un experimento
 
 ## Favorece una aproximación adaptativa y explorativa
 
 
--  La exploración tiene un coste
-    -  Si este coste es elevado, tratar de predecir el resultado a partir de lo que sabes, sin tener que hacer esa exploración, tiene sentido económicamente hablando
--  Por fortuna, muchas cosas que antes(*) eran costosas, hoy no lo son. No hay buenas razones para no realizar una  exploración   consciente y sistemática en los problemas complejos que la requieren
-    -  No hablamos de prueba-y-error a ciegas. Hablamos de una exploración sistemática y racional
-    -  Por ejemplo, a menudo cuesta menos crear un prototipo para enseñarlo a potenciales usuarios y obtener  feedback,  que tratar de adivinar cómo van a reaccionar al producto (*) Lo siento por Disco Stu, pero hace mucho que no estamos en los 70. Ni en los 80, ni en los 90, ni en los 2000...
+-  La exploración tendrá un coste
+    -  Si este coste es elevado, tratar de predecir el resultado a partir de lo que sabes, sin tener que hacer esa exploración, puede tener sentido económicamente hablando
+-  Por fortuna, muchas cosas que quizás antes eran más costosas, hoy lo son mucho menos
+    -  Por ejemplo, a menudo cuesta menos crear un prototipo para enseñarlo a potenciales usuarios y obtener  feedback,  que tratar de adivinar cómo van a reaccionar al producto
+-  Generalmente no hay buenas razones para no realizar una  exploración   sistemática cuando los problemas complejos la requieren
+    -  Esto es, esencialmente, el método científico-experimental
 
 ## Exploración sistemática: definición gráfica
 
  Photo CC-BY 2.0 by frankieleon https://www.flickr.com/photos/armydre2008/
--  Hasta encontrar un “tocado” no tenemos datos, así que vamos a ciegas
--  Pero a partir de un “tocado” exploramos sistemáticamente
-    -  Seguimos a ciegas, pero hemos reducido el espacio de exploración a las casillas contiguas en vertical u horizontal hasta que completamos el “hundido”
+-  Al principio, predecir dónde están los barcos del rival a partir de lo que sabes (casi nada) funciona muy mal
+    -  Hasta encontrar un “tocado” vamos a ciegas
+-  Pero a partir de un “tocado” exploramos sistemáticamente hasta hundir ese barco
+    -  Hemos reducido el espacio de exploración a las casillas contiguas en vertical u horizontal hasta que completamos el “hundido”
 ![](media/7i_GPS-S02-Scrum-PrincipiosÁgiles-exploracion-sistematica-definicion-grafica-0.png)
 
 ## Acepta el cambio de forma sensata
 
 
--  En Scrum, el cambio se acepta como norma
--  El objetivo es intentar que el coste del cambio sea constante (o cercano a) con respecto al tiempo
--  Con Scrum se producen muchos productos de trabajo
-    -  Requisitos detallados, diseños, casos de prueba...
--  Pero se hacen con filosofía  just-in-time
-    -  Cuando hacen falta, evitando la creación de artefactos posiblemente innecesarios
--  Así, cuando se produce un cambio hay menos artefactos y decisiones que se basaron en las suposiciones que ha habido que descartar o rehacer
-    -  El coste del cambio así es más proporcional al tamaño del mismo, y menos al momento en que se produce
-    -  En algún momento el coste acabará dejando de ser proporcional al tamaño del cambio, pero este momento llegará más tarde que en desarrollo tradicional
+-  La incertidumbre no es solo la que tenemos al principio. Los proyectos cambian durante el desarrollo
+    -  En Scrum, ese cambio se acepta como lo normal y no como un problema
+-  En metodologías tradicionales, los cambios son más caros conforme más tarde llegan dentro del proyecto
+-  El objetivo en Scrum es intentar que el coste del cambio dependa menos del momento en el que ocurre. Para ello:
+    -  Se producen muchos productos de trabajo...    
+        -  Requisitos detallados, diseños, casos de prueba...
+    -  ...pero con filosofía  just-in-time    
+        -  Cuando hacen falta, y no antes
+-  Así, cuando llega la necesidad del cambio hay menos cosas hechas que revisar y cambiar
+    -  El coste del cambio depende más del tamaño del propio cambio que del momento en el que se produce    
+        -  Aunque este coste seguirá siendo mayor en cambios más tardíos, tendremos más margen de tiempo hasta que los cambios resulten muy costosos que con metodologías tradicionales
 
-## Equilibra trabajo por adelantado y just-in-time
+## Acepta el cambio de forma sensata
 
 
--  En Scrum el trabajo por adelantado (requisitos, planes...) tiene que ser útil sin ser excesivo
-    -  Se busca maximizar la adaptabilidad basada en  feedback  frecuente
-    -  Y minimizar el trabajo por adelantado
+-  En Scrum buscamos un equilibrio entre hacer trabajo por adelantado y adaptarnos a los cambios cuando lleguen
 -  El equilibrio depende del producto y de las incertidumbres sobre el mismo
-    -  También de otras restricciones externas o requisitos legales
--  El equilibrio está en algún punto entre “adivinar el futuro” (puramente predictivo) y “el caos” (puramente adaptativo)
+    -  El equilibrio está en algún punto entre “adivinar el futuro” (puramente predictivo) y “el caos” (puramente adaptativo)
 
 ## Usa aprendizaje validado (validated learning)
 
@@ -260,11 +261,12 @@ Principio 2. Predicción y adaptación
 -  El aprendizaje validado es el que confirma o refuta una suposición
 -  Hay que validar las suposiciones importantes pronto
     -  Sin validar, son un riesgo grave
--  Hay que aprender cíclicamente 
-    -  Suposición-> experimento->  feedback -> aprendizaje
-    -  Scrums diarios, revisiones de sprints...
--  El flujo de trabajo debe proporcionar  feedback  rápidamente
-    -  Por ejemplo, si dos componentes tienen que interactuar no esperamos a terminarlos para empezar la integración
+    -  ¿El hardware está dimensionado adecuadamente? ¿Esta biblioteca de verdad tiene toda la funcionalidad necesaria? ¿La API externa está bien documentada?...
+-  El aprendizaje es cíclico
+    -  Suposición (hipótesis) → experimento → resultados ( feedback) →  aprendizaje
+    -  Además de la exploración que hemos mencionado antes, los scrums diarios o las revisiones de los sprints son mini-experimentos que realizamos periódicamente y que nos permiten ir validando hipótesis
+-  Hay que organizar el trabajo para poder obtener  feedback  rápido
+    -  Por ejemplo, si dos componentes tienen que interactuar no esperamos a terminarlos para empezar la integración, sino que empezamos a probarlo en cuanto hay un mínimo desarrollado
 
 ##  Principio 3. Trabajo en marcha ( work in progress / process )
 
@@ -275,7 +277,7 @@ Principio 3. Trabajo en marcha ( work in progress / process )
 
 -  El WIP es todo el trabajo empezado que aún no se ha terminado
 -  En general queremos tener un WIP bajo
-    -  La cantidad óptima de WIP depende de muchos factores y cambia con el tiempo, así que prepárate para ser flexible
+    -  Aunque la cantidad óptima de WIP depende de muchos factores y cambiará durante el proyecto
 -  Para optimizar tus resultados gestionando correctamente el WIP, hay varios elementos que puedes considerar
     -  Usa lotes de tamaños sensatos
     -  Reconoce el inventario y gestiónalo para que circule bien
@@ -289,9 +291,8 @@ Principio 3. Trabajo en marcha ( work in progress / process )
     -  L =  λ * W
 -  También se puede expresar como que el número medio de clientes en un sistema (L) es igual al tiempo medio que el cliente pasa en el sistema (W) multiplicado por la productividad del mismo ( throughput ) (X)
     -  L = W * X
-    -  La productividad es la tasa de salida del sistema
-    -  Ten en cuenta que según sea nuestro sistema, puede que no estemos midiendo la misma cosa si consideramos  λ  o si consideramos  X
--  Un ejemplo: Si llegan 12 clientes por hora a nuestra tienda ( λ ), y están de media 15 minutos (W), el número medio de clientes en la tienda en cualquier momento será de L = 12 * 0,25 = 3
+    -  La productividad es la tasa de salida del sistema (que no siempre coincide con la de llegada)
+-  Un ejemplo: si llegan 12 clientes por hora a nuestra tienda ( λ ), y están de media 15 minutos (W), el número medio de clientes en la tienda en cualquier momento será de L = 12 * 0,25 = 3
     -  Aunque es razonablemente intuitivo, es sorprendente que esta relación no se vea afectada por la distribución del proceso de llegadas, la distribución o el orden de servicio a los clientes etc.
     -  Se aplica a todo tipo de sistemas
 
@@ -299,7 +300,8 @@ Principio 3. Trabajo en marcha ( work in progress / process )
 
 
 -  Si queremos calcular el tiempo medio que pasan los clientes en el sistema (W) podemos escribir la ecuación como W = L /  λ o bien como W = L / X
--  Para aplicarlo en nuestro problema (saber el tiempo que nos cuesta completar las tareas que tenemos), los clientes son las tareas y el tiempo que pasan en nuestro sistema es el tiempo que tardamos en llevarlas a cabo
+-  Nuestro problema es saber el tiempo que nos cuesta completar las tareas que tenemos
+    -  Los clientes son las tareas y el tiempo que pasan en nuestro sistema es el tiempo que tardamos en llevarlas a cabo
 -  Podemos escribir la última ecuación usando otra terminología: Tiempo de ciclo = WIP / X
     -  Tiempo de ciclo (*): Tiempo medio que cuesta completar una tarea desde que nos ponemos a trabajar en ella
     -  WIP: número de tareas en las que estamos trabajando en un momento dado
@@ -315,52 +317,53 @@ Principio 3. Trabajo en marcha ( work in progress / process )
     -  Por ejemplo, si tenemos 10 tareas por hacer, podemos focalizarnos en 5 de ellas primero, y cuando acabemos con esas en las otras 5    
         -  Las hemos dividido en dos lotes
 -  En desarrollo secuencial, si se trabaja por fases, es mejor terminar una fase antes de empezar otra
-    -  P.ej.: capturar todos los requisitos primero antes de empezar la fase de análisis
-    -  El tamaño del lote en este caso es de un 100%    
-        -  Solo empezamos el análisis cuando todos los requisitos han sido capturados con todo detalle
+    -  P.ej., capturar todos los requisitos primero antes de empezar la fase de análisis
+    -  El tamaño del lote en este caso es de un 100%
 -  Esto se basa en las economías de escala de la fabricación de productos
     -  El coste de producir una unidad es menor conforme aumenta el número de unidades (el tamaño del lote)
--  Pero los lotes pequeños tienen muchos beneficios
+-  Pero lotes más pequeños tienen muchos beneficios
 
 ## Beneficios de los lotes pequeños
 
 
--  Tiempo de ciclo reducido
+-  Menor tiempo de ciclo
     -  Un lote más pequeño es menos WIP ( Work in Progress ), y hemos visto antes, por la Ley de Little, que menos WIP implica menos tiempo de ciclo    
-        -  Conseguimos resultados antes
+        -  Conseguimos resultados entregables antes
 -  Mayor fluidez
-    -  Pensad en un restaurante donde entran y salen pequeños grupos (se les sirve pronto, hay buena circulación)
+    -  Pensad en un restaurante donde entran y salen pequeños grupos    
+        -  A todo el mundo se le sirve pronto, hay fluidez
     -  Ahora imaginad que llega un autobús con turistas (lote grande), y el efecto que produce en el tiempo de servicio al resto de clientes
 -  Feedback  acelerado
-    -  Al reducir el tiempo de ciclo tenemos resultados antes y podemos obtener  feedback  sobre estos resultados antes    
-        -  Reduciendo así, p. ej., las consecuencias de cometer algún error
+    -  Al reducir el tiempo de ciclo tenemos resultados entregables antes, así que podemos obtener  feedback  sobre estos resultados antes
 
 ## Beneficios de los lotes pequeños
 
 
 -  Sobrecarga reducida
     -  Manejar lotes grandes tiene una sobrecarga    
-        -  P.ej. mantener una lista de 300  items  de trabajo requiere más esfuerzo que una lista de 30
+        -  P.ej., mantener una lista de 300  items  de trabajo pendientes requiere más esfuerzo que una lista de 30
 -  Motivación y urgencia incrementadas
     -  Los lotes pequeños proporcionan foco y sentido de la responsabilidad
 -  Menor error en la estimación de costes y plazos
     -  Cuando nos equivocamos en lotes grandes, nos equivocamos por mucho    
         -  En una escala menor, los errores son más pequeños
+        -  Y podemos aprender de los errores en los primeros lotes para hacerlo mejor en los siguientes
 
 ## Reconoce el inventario y gestiónalo para que circule bien
 
 
 -  El inventario tiene un alto coste asociado
     -  En este aspecto, la fabricación y el desarrollo de productos sí que coinciden
-    -  El inventario pierde valor mientras lo tenemos almacenado (y almacenarlo tiene un coste)
+    -  El inventario pierde valor mientras lo tenemos almacenado    
+        -  Y almacenarlo tiene un coste
     -  Si hay cambios en el diseño del producto, el inventario almacenado ya no sirve
 -  En el desarrollo de productos no es obvio ver que tenemos inventario
     -  Se trabaja con muchos bienes inmateriales (digitales) que parece que “no estorban”
--  Nuestro inventario principal son los requisitos (y otras tareas por hacer)
-    -  Necesitamos requisitos para trabajar, pero no los necesitamos todos
-    -  Si tenemos demasiados, cuando el cliente pida cambios tendremos un problema más grande
-    -  Si no tenemos suficientes, alguien puede quedarse sin nada que hacer en algún momento    
-        -  Tendrá que esperar a que haya requisitos nuevos
+    -  P.ej., en Scrum, nuestro inventario principal son las entradas de la pila del producto (PBI)    
+        -  Necesitamos PBI para trabajar, pero no las necesitamos todas el primer día
+        -  Si tenemos demasiadas, cuando el cliente pida cambios tendremos un problema más grande
+        -  Si no tenemos suficientes, en algún momento el proyecto se queda parado        
+            -  A la espera de que haya PBI nuevas
 
 ## Focalízate en el trabajo parado, no en los trabajadores parados
 
@@ -375,73 +378,23 @@ Principio 3. Trabajo en marcha ( work in progress / process )
 ## Focalízate en el trabajo parado, no en los trabajadores parados
 
 
--  En la empresa tradicional, si contratas a alguien para hacer tests, lo quieres el 100% del tiempo trabajando en eso
-    -  Si no lo está, le buscas más trabajo, aunque sea en distintos proyectos
--  Eso reduce el desperdicio que supone un trabajador parado, pero incrementa el desperdicio que supone tener trabajo parado
-    -  Y en general no compensa
+-  En una empresa tradicional, si contratas a alguien para hacer algo, lo quieres el 100% del tiempo trabajando en eso
+    -  Si no lo está, le buscas más trabajo, aunque sea en distintos proyectos o haciendo otras cosas
+-  Eso reduce el desperdicio que supone tener un trabajador parado, pero incrementa el desperdicio que supone tener trabajo parado
+    -  Porque cuando vas a encargarle algo, resulta que siempre está ocupado con otra cosa y te toca esperar
+    -  Esto en general no compensa
 -  Una analogía para ilustrar el punto anterior: cuando el PC está ocupado al 100% (procesador y memoria), ¿qué ocurre?
     -  Se enlentece enormemente
-
-## Pregunta
-
-
--  Suponed que un trabajador tarda 45 minutos de media en hacer cada tarea que se le encarga (tiempo de servicio) y le encargamos de media 1 tarea cada hora
--  ¿Cuánto tiempo, en media, tarda una tarea en estar terminada desde que la hemos solicitado?
-    -  Las solicitudes de tareas no están uniformemente distribuidas en el tiempo, sino que llegan aleatoriamente y sin saber el tiempo que ha pasado desde que llegó la anterior
--  ¿Y si encargamos 1,1 tareas por hora?
-
-## Respuesta: un poco de teoría de colas
-
-
--  Si asumimos que las tareas llegan con una distribución de Poisson con tasa  λ, los tiempos de servicio tienen una distribución exponencial con parámetro 1/μ (siendo μ el ritmo medio de servicio) y sabemos que tenemos un solo trabajador, tenemos lo que en teoría de colas se denomina una cola M/M/1:
-    -  El ratio λ/μ se llama utilización (ρ). Es la proporción de tiempo en que el trabajador está ocupado
-    -  Si ρ es > 1, las tareas llegan más rápido de lo que las podemos realizar, y por tanto la cola crecerá sin límites
-    -  Si ρ es < 1, la cola alcanzará una estabilidad con cierto número de tareas en espera en promedio
-    -  El tiempo total medio que una tarea está en el sistema (esperando+siendo realizada) es W = 1 / (μ - λ)
--  En el ejemplo, μ = 1,33 tareas por hora (1 tarea en 45 minutos)
--  Si encargamos λ = 1 tarea por hora: W = 1 / (1,33 - 1) ≈  3 horas de media por tarea  (de las cuales 2 horas y 15 minutos serían de media el tiempo que hay que esperar a que se empiece a trabajar en ella, y 45 minutos de media el tiempo que cuesta hacerla)
-    -  Y el trabajador está ocupado el 75% del tiempo
--  Si encargamos λ = 1,1 tareas por hora: W = 1 / (1,33 - 1,1)  ≈  4,35 horas por tarea  (3 horas y algo menos de 40 minutos de media esperando)
-    -  Y el trabajador está ocupado el 83% del tiempo
--  Es decir, que en este caso si pasamos de un trabajador que está ocupado el 75% de su tiempo a uno ocupado el 83% del tiempo ( solo un 8% más ), cada tarea  tardará de media un 43% más de tiempo  en estar completada desde que la encargamos
-
-## Respuesta: un poco de teoría de colas
-
-
--  Si ponemos a un segundo trabajador, y mantenemos el resto de asunciones, tenemos lo que en teoría de colas se denomina una cola  M/M/c con c = 2:
-    -  El ratio λ/(c*μ) se llama utilización (ρ). Es la proporción de tiempo en que cada trabajador está ocupado
-    -  Si ρ es > 1, las tareas llegan más rápido de lo que las podemos realizar, y por tanto la cola crecerá sin límites
-    -  Si ρ es < 1, la cola alcanzará una estabilidad con cierto número de tareas en espera en promedio
-    -  El tiempo total medio que una tarea está en el sistema (esperando+siendo realizada) (W) no tiene una ecuación tan corta como en el caso M/M/1 (buscadla), pero os pongo un par de resultados
--  Si λ = 1 tarea por hora: W = 0,88 horas por tarea
-    -  Y cada trabajador está ocupado el 38% del tiempo
--  Si λ = 1,1 tareas por hora: W = 0,91 horas por tarea
-    -  Y cada trabajador está ocupado el 41% del tiempo
+-  Una regla aproximada es que un sistema (en este caso sería un trabajador) ocupado por encima del 80/85% de su capacidad se empieza a sobrecargar muy rápido
+    -  Cuando los analizamos, vemos un diagrama en forma de “palo de Hockey”
+![](media/7i_GPS-S02-Scrum-PrincipiosÁgiles-focalizate-en-el-trabajo-parado-no-en-los-trabajadores-parados-0.png)
 
 ## Considera el coste del retraso
 
 
--  El coste del retraso es el coste financiero de retrasar trabajo o de retrasarse en alcanzar algún hito
-    -  P.ej., el coste que tiene para nosotros retrasarnos en sacar nuestro producto al mercado    
-        -  Cuanto más tardemos en sacarlo, más tardaremos en tener ingresos
-        -  Los ingresos que no obtenemos son un coste
-
-## Considera el coste del retraso: un ejemplo
-
-
--  ¿Contratamos a alguien para escribir documentos (manuales etc.) los 12 meses de duración de un proyecto, o lo contratamos solo al final del mismo?
-    -  Sabiendo que durante los 12 meses no va a estar trabajando ni de casualidad el 100% de su tiempo
--  12 meses de salario: 75000 €
-    -  El trabajo se termina en 12 meses, con documentos incluidos
--  Lo contratamos al terminar los 12 meses de desarrollo durante 2 meses: 12500 €
-    -  El trabajo se termina en 14 meses, con documentos incluidos
-
-## Considera el coste del retraso: un ejemplo
-
-
--  Si el coste de retrasar la salida del producto durante 2 meses es mayor que 75000-12500 = 62500€ nos saldría a cuenta contratarle desde el principio y pagarle el año entero
-    -  Aunque se pase el año entero sin hacer nada más que trabajar en nuestro producto, y por tanto solo esté ocupado un porcentaje muy bajo de su tiempo
--  Es importante no focalizarse en optimizar el uso del documentalista si esto empeora el resultado económico global
+-  El coste del retraso es el coste económico de retrasar trabajo, o el de retrasarse en alcanzar algún hito
+    -  P.ej., retrasarnos en sacar nuestro producto al mercado tiene un coste económico    
+        -  Cuanto más tardemos en sacarlo, más tardaremos en tener ingresos, y los ingresos que no obtenemos son un coste
 
 ##  Principio 4. Progreso
 
@@ -450,22 +403,17 @@ Principio 4. Progreso
 ## Progreso
 
 
--  Scrum mide el progreso según lo que se ha entregado al cliente y ha sido validado por este, no por el ajuste a un plan predefinido
-
-## Progreso
-
-
 -  Mide el progreso validando resultados del trabajo
-    -  Haber terminado una fase de tu plan y empezado con la siguiente no significa que hayas progresado realmente
-    -  Terminar a tiempo y dentro del presupuesto sin alcanzar las expectativas del cliente no es éxito realmente
-    -  Scrum mide el progreso creando y validando  resultados
--  Focalízate pues en entregar valor
+    -  Haber terminado una fase de tu plan y empezado con la siguiente no significa un progreso real
+    -  Terminar a tiempo y dentro del presupuesto sin alcanzar las expectativas del cliente no es un éxito real
+    -  Scrum mide el progreso creando y validando  resultados    
+        -  Entregados al cliente y validados por este
+-  Hay que focalízarse pues en entregar valor
     -  Con un plan tradicional, la entrega de valor se hace al final    
-        -  Si te quedas sin recursos antes, no entregas nada
-    -  Los artefactos intermedios (p.ej. documentos de diseño) son valiosos, pero solo internamente    
-        -  Y solo en la medida en la que te ayudan a entregar resultados al cliente
+        -  Si el proyecto fracasa y se queda parado a mitad, no habrás entregado nada en absoluto
     -  En Scrum, las características más valiosas para el cliente son las que se abordan antes    
         -  Los clientes reciben resultados desde el principio, y además relacionados con lo que creen que es más valioso para ellos
+    -  Hay artefactos intermedios que no se entregan (p.ej., documentos de diseño) y son valiosos, pero solo en la medida en que son útiles para ayudarte a entregar resultados
 
 ##  Principio 5. Rendimiento
 
@@ -475,29 +423,34 @@ Principio 5. Rendimiento
 
 
 -  Hemos visto que Scrum busca entregar rápido, obtener  feedback  rápido y dar valor al cliente pronto
--  Rápido no significa apresurado. El objetivo es ir a un ritmo sostenible ( sustainable pace )
-    -  El que puede mantenerse por un largo periodo de tiempo
-    -  Apresurarse disminuye la calidad
+-  Rápido no significa apresurado
+    -  El objetivo es ir a un ritmo sostenible ( sustainable pace )    
+        -  El que puede mantenerse por un largo periodo de tiempo
+        -  Apresurarse disminuye la calidad
 
 ## Calidad
 
 
--  En desarrollo dirigido por planes, se supone que la calidad llega en buena medida por seguir el plan, pero no se verifica realmente hasta que se integra
-    -  Que suele ser al final
--  En Scrum, la calidad es continua. Se prueba y se verifica en cada sprint
-    -  Cada incremento de valor se crea como si fuera a ponerse inmediatamente en manos del cliente, y los clientes lo revisan todo con frecuencia (reuniones de revisión)
+-  En desarrollo dirigido por planes se asume que la calidad del producto llega, al menos en parte, por seguir el plan
+    -  Pero no se verifica realmente hasta que se integra    
+        -  Que suele ser al final
+-  En Scrum, la calidad del producto se prueba y verifica en cada sprint
+    -  Cada incremento de valor se crea como si fuera a ponerse inmediatamente en manos del cliente    
+        -  Definición de hecho
+    -  Los clientes lo revisan todo con frecuencia    
+        -  Reunión de revisión en cada sprint
 
 ## La mínima ceremonia que sea suficiente
 
 
 -  El desarrollo dirigido por planes suele ser ceremonioso (firma, sello, aprobación por un comité...) y estar centrado en documentos
--  Scrum está centrado en el valor, así que no se enfatiza la ceremonia
+-  Scrum está centrado en el valor, así que no se enfatiza la “burocracia”
     -  Se evita especialmente la formalidad innecesaria    
-        -  La que tiene un coste pero añade poco o nada de valor
-    -  Ejemplos de esto:    
+        -  Que es la que tiene un coste pero añade poco o nada de valor
+    -  Ejemplos de cosas que se evitan en Scrum:    
         -  Hacer cosas solo porque las dicta un proceso
         -  Tener que aprobar cosas por comité antes de empezar otras fases
-        -  Tener que registrar cualquier petición de cambio (por mínima que sea) en cierta aplicación...
+        -  Tener que registrar cualquier petición de cambio (por mínima que sea) en una aplicación (Jira...)
 -  La ceremonia mínima suficiente no es la misma para una nueva red social que para un marcapasos
 
 ## La mínima ceremonia que sea suficiente
@@ -505,7 +458,7 @@ Principio 5. Rendimiento
 
 -  Scrum no está en contra de la documentación
     -  Solo está en contra de la documentación que no añade valor
--  Documentación que añade valor
+-  Documentación que sí añade valor:
     -  La entregable al cliente (manuales, instrucciones de instalación...)
     -  La que captura discusiones, decisiones o acuerdos importantes    
         -  Respecto al diseño del sistema, la estrategia del producto etc.

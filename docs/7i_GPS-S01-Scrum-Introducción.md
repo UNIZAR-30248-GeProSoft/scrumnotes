@@ -37,7 +37,7 @@
 
 
 -  Al comienzo de cada iteración, el equipo planifica qué subconjunto de tareas abordará
--  Al final de cada iteración, el equipo revisa lo que se ha completado junto a  clientes/usuarios
+-  Al final de cada iteración, el equipo revisa lo que se ha completado junto a clientes/usuarios
     -  Ese  feedback  permite alterar lo que se va a hacer luego y cómo se va a trabajar
 
 ## 
@@ -52,7 +52,7 @@
     -  Honda, Canon, Fuji-Xerox usan un aproximación escalable y basada en equipos que se auto-organizan
     -  Ya aparece el rugby como metáfora (un equipo que busca  avanzar distancia , llevando el balón atrás y adelante)
 -  1993: Jeff Sutherland y su equipo crean el proceso Scrum para desarrollo de software
-    -  El artículo de 1986, desarrollo OO, control de procesos empírico, desarrollo iterativo e incremental, investigación en procesos y productividad en software y sistemas complejos adaptativos
+    -  Teniendo en cuenta el artículo de 1986, desarrollo orientado a objetos, control de procesos empírico, desarrollo iterativo e incremental, investigación en procesos y productividad en software y sistemas complejos adaptativos
 -  1997: Ken Schwaber publica el primer artículo sobre Scrum
     -  En este artículo Schwaber habla de “metodología Scrum”. A pesar de esto, hay gente que cree no se puede hablar de “metodología” al referirnos a Scrum
     -  El Scrum que describe en este artículo ya se parece a la versión que vamos a ver, pero se nota que está todavía un poco verde
@@ -98,7 +98,8 @@
 
 
 -  Cosas más impredecibles que predecibles
-    -  Hay  unknown unknowns : esas cosas que ni siquiera sabes que no las sabes
+    -  Hay  unknown unknowns    
+        -  Esas cosas que ni siquiera sabes que no las sabes
 -  Ideas que compiten entre sí
     -  Y no necesariamente unas son correctas y otras incorrectas
 -  Hacen falta soluciones creativas
@@ -115,7 +116,8 @@
 -  Hay buenas prácticas dominadas por expertos
     -  Las relaciones de causa y efecto no son obvias, hace falta un experto para encontrarlas
     -  Puede haber más de una respuesta correcta
--  Tenemos  known unknowns : hay cosas que no sabemos, pero sabemos cuáles son esas cosas
+-  Tenemos  known unknowns
+    -  Hay cosas que no sabemos, pero sabemos cuáles son esas cosas
 -  Trabajamos evaluando los hechos que se nos presentan, analizando distintas opciones para afrontarlos y luego respondiendo en base a lo que sabemos hacer 
 -  Un ejemplo de este dominio es el mantenimiento (mejoras y corrección de errores) de software en producción o el dimensionamiento de un sistema web para dar soporte a distintos números de usuarios
 -  Scrum puede servir, pero puede no ser la mejor opción en este dominio
@@ -143,7 +145,7 @@
 -  Hay que tomar muchas decisiones sin tiempo para pensar
 -  Trabajamos evaluando los hechos y elaborando respuestas en base a lo que sabemos hacer
     -  Pero actuar cuanto antes es crítico, así que generalmente no esperamos a tener una respuesta óptima o una evaluación detallada de la situación
--  Por ejemplo, la última versión que hemos desplegado en producción de nuestro software tiene un fallo crítico
+-  Por ejemplo, estamos en el dominio caótico cuando la última versión que hemos desplegado en producción de nuestro software tiene un fallo crítico y no tenemos un mecanismo sencillo para volver a la versión anterior
 -  Scrum no es la mejor solución
     -  Por ejemplo, no hay que ponerse a priorizar cosas, alguien tiene que hacerse cargo y actuar inmediatamente
 ![](media/7i_GPS-S01-Scrum-Introducción-dominio-caotico-0.png)
@@ -152,24 +154,17 @@
 
 
 -  Estás en este dominio si no sabes en qué otro dominio estás
--  No intentas aplicar Scrum a este dominio. Lo que intentas es salir de él lo antes posible
+-  No intentas aplicar Scrum a este dominio
+    -  Lo que intentas es salir de ahí lo antes posible
 ![](media/7i_GPS-S01-Scrum-Introducción-desorden-0.png)
 
-## Trabajo dirigido por interrupciones
-
-
--  Por ejemplo, soporte a usuarios
--  Tu “bandeja de entrada” se llena continuamente con nuevas peticiones de soporte
-    -  Nunca hay nada ahí de largo plazo
-    -  La prioridad de las tareas puede cambiar en cualquier instante
--  Scrum no se adapta bien a esto
-
-## ¿Y el desarrollo de software?
+## ¿Dónde está el desarrollo de software?
 
 
 -  El desarrollo de software suele estar en el dominio complicado o el complejo
-    -  O al menos que algunas partes del desarrollo, p.ej. ciertos módulos críticos, estén en estos dominios
-    -  Pero no siempre. Hay trabajos que son más simples que otros
+    -  Al menos algunas partes del desarrollo, quizás ciertos módulos críticos, suelen estar en estos dominios
+    -  Pero no siempre    
+        -  Hay trabajos que son más simples que otros
 
 ##  Componentes de Scrum
 
@@ -184,7 +179,7 @@ Componentes de Scrum
 ## 
 
 
-![](media/7i_GPS-S01-Scrum-Introducción-p23-0.png)
+![](media/7i_GPS-S01-Scrum-Introducción-p22-0.png)
 
 ## ¿Ceremonias?
 
@@ -194,7 +189,7 @@ Componentes de Scrum
     -  El foco está donde no debe    
         -  Debería estar siempre en los principios y en los valores, no en las propias actividades
     -  La palabra ceremonia (o ritual) tiene connotaciones que en un contexto de ingeniería son negativas    
-        -  Realizar unas actividades sin entender por qué son como son, no nos permite darnos cuenta si las hacemos mal, ni adaptarlas a nuevas circunstancias, ni proponer mejoras
+        -  Realizar unas actividades siguiendo unos pasos dados pero sin entender realmente lo que estamos haciendo, no nos permite darnos cuenta si las hacemos mal, ni adaptarlas a nuevas circunstancias, ni proponer mejoras
 
 ##  Roles
 
@@ -206,8 +201,8 @@ Roles
 -  El trabajo se hace en equipos Scrum
 -  En cada equipo hay tres roles: dueño del producto ( product owner) , ScrumMaster y el equipo de desarrollo
     -  Puede haber otros, pero Scrum solo requiere estos
--  Dueño del producto
-    -  Responsable de lo que se va a desarrollar y el orden
+-  Dueña/o del producto
+    -  Responsable de lo que se va a desarrollar y en qué orden
 -  ScrumMaster
     -  Guía al equipo en la creación y el seguimiento de un proceso basado en Scrum
 -  Equipo de desarrollo
@@ -216,20 +211,20 @@ Roles
 ## 
 
 
-![](media/7i_GPS-S01-Scrum-Introducción-p27-0.jpg)
+![](media/7i_GPS-S01-Scrum-Introducción-p26-0.jpg)
 
 ## Roles
 
 
--  Con o sin gestores (gerentes, directores...), todos los proyectos se gestionan
+-  Con o sin gestores (managers, gerentes, directores...), todos los proyectos se gestionan
     -  Esa gestión puede recaer sobre todo en una única persona, o estar repartida entre el equipo     
         -  Esto último es más compatible con Scrum
-    -  A veces es gestión no es consciente y sistemática    
+    -  A veces esa gestión no es consciente y sistemática    
         -  Aunque debería
--  Los gestores “tradicionales” tienen su papel y lo veremos cuando tratemos en profundidad sobre los roles
--  Pero el de gestor es un rol que Scrum ni define ni requiere
+-  Los directores/as “tradicionales” tienen su papel y lo veremos cuando tratemos en profundidad sobre los roles
+-  Pero el de director/a es un rol que Scrum ni define ni requiere
 
-## Dueño del producto
+## Dueño/a del producto
 
 
 -  Autoridad única que decide qué características y funcionalidad se desarrollan, y en qué orden
@@ -246,16 +241,16 @@ Roles
 ## 
 
 
-![](media/7i_GPS-S01-Scrum-Introducción-p31-0.png)
+![](media/7i_GPS-S01-Scrum-Introducción-p30-0.png)
 
 ## Equipo de desarrollo
 
 
 -  Equipo multidisciplinar de gente que tiene que diseñar, construir y probar el producto 
-    -  Arquitectos, diseñadores gráficos, programadores, testers...
+    -  Desarrolladores/as, diseñadores/as gráficos, testers, documentalistas...
 -  El equipo de desarrollo se auto-organiza
--  Habitualmente entre 5 y 9 personas
--  Si es un proyecto grande, se hará entre varios equipos Scrum
+-  Habitualmente se hacen equipos de entre 5 y 9 personas
+-  Si es un proyecto más grande, se hará entre varios equipos
 
 ##  Actividades y artefactos
 
@@ -264,33 +259,29 @@ Actividades y artefactos
 ## 
 
 
-![](media/7i_GPS-S01-Scrum-Introducción-p34-0.png)
-
-## 
-
-1. Dueño del producto 2. Visión 3. Se divide en partes en una lista priorizada 4. Se elige un subconjunto de entradas de la pila del  producto para el sprint 5. Se detallan  las entradas  elegidas 6. Se lleva a cabo el sprint 7. Cada día se analiza la situación  y se realizan  adaptaciones 8. Al final del sprint se ha  avanzado en desarrollar la  visión 10. Se revisa el proceso 11. Las adaptaciones que surjan de 9 y 10 pueden ir a la pila del producto, o al proceso de desarrollo 9. Se revisa el producto con los clientes
-![](media/7i_GPS-S01-Scrum-Introducción-p35-0.png)
+![](media/7i_GPS-S01-Scrum-Introducción-p33-0.png)
 
 ## Pila del producto (product backlog)
 
 
--  Una lista priorizada del trabajo a realizar
+-  Una lista  priorizada  del trabajo a realizar
     -  Responsabilidad del dueño del producto
--  Al principio son requisitos
+-  Al principio son, esencialmente, requisitos funcionales
     -  Los necesarios para implementar la visión
--  Luego se incluirán nuevos requisitos, cambios en características ya implementadas, errores que hay que solucionar, mejoras técnicas etc.
--  El dueño del producto es el responsable, pero hablará con otros
--  Grooming : la creación y refinado de entradas en la pila del producto, estimándolas y priorizándolas
--  Hay que estimar el tamaño (coste) de cada entrada para determinar su prioridad
-    -  Hay diversas alternativas
+-  Pero luego se incluirán nuevos requisitos, cambios en características ya implementadas, errores que hay que solucionar, mejoras técnicas etc.
+    -  Por eso no hablamos de requisitos simplemente, sino que normalmente diremos entradas de la pila o de PBI ( product backlog items )
+-  El dueño del producto es responsable de la pila, pero mantendrá siempre un diálogo con el equipo para su mantenimiento
+-  Se denomina  grooming  al mantenimiento de la pila
+    -  Creación de entradas nuevas, refinado de las que hay, estimación y priorización
+-  Hay que estimar el tamaño (coste) de cada entrada de la pila para ayudar a determinar su prioridad
 
 ## Sprint
 
 
 -  Iteración de hasta un mes de duración en la que se realiza el trabajo en Scrum
     -  Se suceden hasta el fin del proyecto
--  El trabajo terminado en cada sprint debería crear algo de valor tangible para el cliente o usuario
--  Duración predeterminada ( timeboxed )
+-  El trabajo terminado en cada sprint debería crear algo de valor tangible para clientes/usuarios
+-  La duración está predeterminada ( timeboxed )
 -  Dentro de un sprint, no se permite cambiar ni el objetivo del mismo, ni al equipo Scrum
     -  Siempre que sea posible
 
@@ -300,9 +291,12 @@ Actividades y artefactos
 -  El dueño del producto y el equipo de desarrollo acuerdan un objetivo para el sprint ( sprint goal )
 -  A partir del objetivo del sprint, el equipo de desarrollo revisa la pila del producto y determina qué entradas de alta prioridad puede llevar a cabo a un ritmo sostenible ( sustainable pace ) en ese sprint
 -  El equipo de desarrollo divide las entradas de la pila del producto elegidas en tareas, que junto a estas entradas formarán el  sprint backlog  (pila del sprint)
--  El equipo de desarrollo estima el esfuerzo de cada tarea
+    -  Las entradas de la pila y las tareas (tasks) son cosas distintas y debemos esforzarnos en no confundirlas
+    -  La pila del producto y la pila del sprint son cosas distintas y debemos esforzarnos en no confundirlas
+-  El equipo de desarrollo estimará el esfuerzo de cada tarea y, sumando eso, el esfuerzo total requerido para el sprint
     -  Típicamente en horas ideales
--  La planificación de un  sprint  suele durar como máximo dos horas por cada semana que dure el  sprint
+-  La planificación de un  sprint puede tardar hasta  dos horas por cada semana que dure el  sprint
+    -  Aunque cogiendo un poco de práctica, un sprint típico se puede planificar bastante más rápido
 
 ## Ejecución del Sprint
 
@@ -314,7 +308,7 @@ Actividades y artefactos
 ## Scrum Diario (Daily Scrum)
 
 
--  Cada día del  sprint , normalmente a la misma hora, el equipo de desarrollo tiene una reunión de duración predeterminada (15 min o menos)
+-  Cada día del  sprint , normalmente a la misma hora, el equipo de desarrollo tiene una reunión de duración predeterminada (15 minutos o menos)
     -  Es común que nadie se siente, para enfatizar la brevedad
 -  Normalmente el ScrumMaster hace de “facilitador” de la reunión
 
@@ -334,15 +328,15 @@ Actividades y artefactos
 
 -  Los resultados de un  sprint  deben ser un incremento del producto potencialmente listo para ser usado ( potentially shippable product increment )
     -  Por ejemplo: diseñado, implementado, integrado, probado y documentado
-    -  Una definición más agresiva podría incluir que la empresa puede decidir en cada sprint lanzar una nueva revisión del producto a usuarios finales
--  En los primeros  sprints  de desarrollo de un producto innovador, se puede usar una definición menos ambiciosa de “hecho”
+    -  Una definición más agresiva podría llegar a considerar que al final de cada sprint se entrega una nueva versión/revisión a usuarios/as
+-  En los primeros  sprints  de desarrollo de un producto innovador, se puede usar una definición un poco menos ambiciosa de “hecho”
 
 ## Revisión del Sprint
 
 
 -  Sirve para inspeccionar y adaptar el  producto  que se está construyendo
--  El equipo Scrum y todos los interesados
-    -  Clientes, patrocinadores, inversores, miembros de otros equipos Scrum...
+-  Participa todo el equipo Scrum y todos los interesados ( stakeholders )
+    -  Clientes, patrocinadores, inversores, miembros de otros equipos Scrum, la dirección de la empresa...
 -  Se revisa lo que se acaba de completar en el contexto del esfuerzo de desarrollo general
 
 ## Retrospectiva del Sprint
@@ -361,5 +355,5 @@ Actividades y artefactos
 ## 
 
 
-![](media/7i_GPS-S01-Scrum-Introducción-p46-0.png)
+![](media/7i_GPS-S01-Scrum-Introducción-p44-0.png)
 
