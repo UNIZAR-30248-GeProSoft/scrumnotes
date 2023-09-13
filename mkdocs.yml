@@ -53,7 +53,7 @@ nav:
   - Inicio: index.md
   - Introducción: 7i_GPS-S01-Scrum-Introducción.md
   - Principios ágiles: 7i_GPS-S02-Scrum-PrincipiosÁgiles.md  
-    - Requisitos e historias de usuario: 7i_GPS-S03-Scrum-RequisitosHistoriasUsuario.md
+  - Requisitos e historias de usuario: 7i_GPS-S03-Scrum-RequisitosHistoriasUsuario.md
   - La pila del producto: 7i_GPS-S04-Scrum-PilaDelProducto.md
   - Sprints: 7i_GPS-S05-Scrum-Sprints.md 
   - Estimación y velocidad: 7i_GPS-S06-Scrum-EstimaciónVelocidad.md
