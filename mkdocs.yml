@@ -58,7 +58,7 @@ nav:
   - Sprints: 7i_GPS-S05-Scrum-Sprints.md 
   - Estimación y velocidad: 7i_GPS-S06-Scrum-EstimaciónVelocidad.md
   - Planificación: 7i_GPS-S07-Scrum-Planificación.md  
-  - Roles: 7i_GPS-S09-Scrum-Roles.md
+  - Roles: 7i_GPS-S08-Scrum-Roles.md
 
 markdown_extensions:
   - abbr
