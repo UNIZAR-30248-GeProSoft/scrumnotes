@@ -61,6 +61,7 @@ nav:
   - Planificación: 7i_GPS-S07-Scrum-Planificación.md  
   - Roles: 7i_GPS-S08-Scrum-Roles.md
   - Las Pruebas (Tests) en Scrum: 7i_GPS-T01-Técnicas-TestsEnProyectosÁgiles.md
+  - Proyectos fallidos y análisis de las causas raíz: 7i_GPS-T02-Técnicas-ProyectosFalliidosYRootCauseAnalysis.md
 
 markdown_extensions:
   - abbr
