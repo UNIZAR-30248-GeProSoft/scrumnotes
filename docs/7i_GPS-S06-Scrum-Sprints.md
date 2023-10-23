@@ -156,7 +156,9 @@ Sprints
 
 ## Terminación anormal
 
+```
 
+```
 ![](media/7i_GPS-S06-Scrum-Sprints-p16-0.png)
 
 ##  Definición de hecho
@@ -215,17 +217,23 @@ Definición de hecho en GitLab
 
 ## 
 
+```
 
+```
 ![](media/7i_GPS-S06-Scrum-Sprints-p23-0.png)
 
 ## 
 
+```
 
+```
 ![](media/7i_GPS-S06-Scrum-Sprints-p24-0.png)
 
 ## 
 
+```
 
+```
 ![](media/7i_GPS-S06-Scrum-Sprints-p25-0.png)
 
 ##  Actividades de un sprint

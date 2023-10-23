@@ -279,7 +279,9 @@ Desarrollo dirigido por tests de aceptación
 ## Un ejemplo de test de aceptación
 
 
--  Robot Framework se combina con bibliotecas de testing como Selenium para ejecutar estos tests sobre aplicaciones web o móviles Library  *** Variables *** ${SERVER}  ${BROWSER}  ${DELAY}  ${LOGIN URL}  *** Keywords *** Open Browser To Login Page Open Browser  Maximize Browser Window Set Selenium Speed  Login Page Should Be Open ...
+-  Robot Framework se combina con bibliotecas de testing como Selenium para ejecutar estos tests sobre aplicaciones web o móviles```
+ Library  *** Variables *** ${SERVER}  ${BROWSER}  ${DELAY}  ${LOGIN URL}  *** Keywords *** Open Browser To Login Page Open Browser  Maximize Browser Window Set Selenium Speed  Login Page Should Be Open ...
+```
 
 ## Desarrollo dirigido por tests de aceptación (A-TDD)
 
