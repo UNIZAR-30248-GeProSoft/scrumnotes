@@ -229,9 +229,11 @@ Planificación de producto
 
 ## 
 
+
 ```
  2012 , Kenneth S. Rubin and Innolution, LLC. All Rights Reserved.
 ```
+
 ![](media/7i_GPS-S07-Scrum-Planificación-p23-0.png)
 
 ## Otras actividades

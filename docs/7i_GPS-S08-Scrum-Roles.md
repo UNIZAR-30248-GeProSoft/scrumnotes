@@ -527,13 +527,19 @@ Estructuración de equipos Scrum
 
 ## 
 
+
 ```
 PBI funcionales
-``````
-PBI técnicas
-``````
-Por ejemplo: 
 ```
+
+```
+PBI técnicas
+```
+
+```
+Por ejemplo: Front-end API del back-end Base de datos
+```
+
 ![](media/7i_GPS-S08-Scrum-Roles-p52-0.png)
 
 ## <u>¿Equipos de características o de componentes?</u>
@@ -550,15 +556,23 @@ Por ejemplo:
 
 ## 
 
+
 ```
 PBI funcionales
-``````
-PBI técnicas
-``````
-PBI técnicas
-``````
+```
+
+```
 PBI técnicas
 ```
+
+```
+PBI técnicas
+```
+
+```
+PBI técnicas
+```
+
 ![](media/7i_GPS-S08-Scrum-Roles-p54-0.png)
 
 ## <u>Coordinación de múltiples equipos: Scrum de Scrums</u>
@@ -580,6 +594,7 @@ PBI técnicas
 
 ## 
 
+
 ```
 3 áreas de 
 características cada
@@ -588,16 +603,23 @@ equipos de un área
 se coordinan en cada
 sprint p.ej. con 
 Scrum de Scrums
-``````
+```
+
+```
 9 equipos Scrum
-``````
+```
+
+```
 Lanzamientos 
 planificados
 (“salida del tren”)
-``````
+```
+
+```
 Complejas; participan todos los equipos que 
 tienen que hacer sprint mapping coordinado
 ```
+
 ![](media/7i_GPS-S08-Scrum-Roles-p57-0.png)
 
 ## Coordinación de múltiples equipos: Tren de lanzamientos
