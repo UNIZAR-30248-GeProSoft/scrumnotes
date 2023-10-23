@@ -1,4 +1,4 @@
-site_name: Apuntes de Gestión de Proyectos Software
+site_name: Apuntes sobre Scrum (Gestión de Proyecto Software, Universidad de Zaragoza)
 site_url: https://unizar-30248-geprosoft.github.io/scrumnotes
 
 theme:
@@ -60,6 +60,7 @@ nav:
   - Sprints: 7i_GPS-S06-Scrum-Sprints.md   
   - Planificación: 7i_GPS-S07-Scrum-Planificación.md  
   - Roles: 7i_GPS-S08-Scrum-Roles.md
+  - Las Pruebas (Tests) en Scrum: 7i_GPS-T01-Técnicas-TestsEnProyectosÁgiles.md
 
 markdown_extensions:
   - abbr
