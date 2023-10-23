@@ -65,8 +65,8 @@ Tipos de tests
 
 ## Una clasificación de tests
 
-Negocio (dominio de problema) Tecnología Crítica al proyecto (pruebas) Soporte al desarrollo
-![](media/7i_GPS-T01-Técnicas-TestsEnProyectosÁgiles-una-clasificacion-de-tests-0.svm)
+
+![](media/7i_GPS-T01-Técnicas-TestsEnProyectosÁgiles-una-clasificacion-de-tests-0.png)
 
 ## Una clasificación de tests
 
