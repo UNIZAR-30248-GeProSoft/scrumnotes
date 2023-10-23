@@ -130,5 +130,5 @@
 
 
 -  DIB Guide: Detecting Agile BS
-- 
+-  [https://media.defense.gov/2019/May/02/2002127286/-1/-1/0/DIBGUIDEDETECTINGAGILEBS.PDF](https://media.defense.gov/2019/May/02/2002127286/-1/-1/0/DIBGUIDEDETECTINGAGILEBS.PDF)
 
