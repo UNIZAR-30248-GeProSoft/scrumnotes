@@ -1,4 +1,4 @@
-# 7i_GPS-S05-Scrum-Sprints
+# 7i_GPS-S06-Scrum-Sprints
 
 
 
@@ -27,58 +27,43 @@ Sprints
 -  Scrum organiza el trabajo en iteraciones de hasta un mes de duración llamadas sprints
     -  Duración limitada ( timeboxed ), corta y consistente
     -  Con un objetivo que no debería cambiar una vez se empieza
-    -  Deben acabar alcanzando el estado que el equipo acuerde como “hecho”
+    -  Deben acabar alcanzando, para cada PBI, el estado que el equipo acuerde como “hecho”
 
-## Duración limitada (timeboxed)
+## Duración limitada (timeboxed) y corta
 
 
 -  Fechas de inicio y fin predefinidas e inmutables
--  Permite limitar la cantidad de trabajo en marcha ( work in process, WIP )
+-  Permite limitar la cantidad de trabajo en marcha ( work in process, WIP)  (principio ágil)
     -  Se trabaja solo en lo que se planea que se puede comenzar y terminar durante el sprint
     -  Esto nos o bliga a priorizar, eligiendo una cantidad pequeña de trabajo que sea lo más importante
--  Demuestra progreso
+-  Demuestra progreso validando resultados (principio ágil)
     -  Tenemos una fecha conocida y cercana donde habrá partes del trabajo valiosas ya completadas
     -  Esto es mucho más fiable como medida de progreso que, p.ej., la conformidad con un plan
 -  Evita el perfeccionismo innecesario
     -  Lo perfecto es enemigo de lo suficientemente bueno
 
-## Duración limitada (timeboxed)
+## Duración limitada (timeboxed) y corta
 
 
 -  Motiva el cierre
-    -  Las cosas se terminan cuando tienen una fecha de finalización establecida
--  Mejora la predictibilidad
+    -  Las cosas se terminan cuando tienen una fecha de finalización firme establecida    
+        -  Y más si esta es cercana
+    -  Entregar cosas frecuentemente es gratificante y por tanto mantiene más alto el interés del equipo
+-  Mejora las predicciones (equilibrar predicción y adaptación, principio ágil)
     -  Cada vez es más fácil predecir lo que podemos hacer en un sprint, porque hemos hecho muchos otros de la misma duración antes
+    -  Es más fácil predecir lo que podemos hacer en una semana que en un año
 
-## Duración corta
+## Duración limitada (timeboxed) y corta
 
 
--  Facilita la planificación
-    -  Es más fácil y preciso hacer planes para unos días o unas pocas semanas que para seis meses o un año
--  Tenemos  feedback  pronto
-    -  Al final de cada corto sprint tenemos  feedback  con los clientes, patrocinadores etc.
+-  Tenemos  feedback  pronto (adaptación, principio ágil)
+    -  Al final de cada corto sprint, es decir, frecuentemente, tenemos  feedback  con los clientes, patrocinadores etc.    
+        -  Esto genera oportunidades para la inspección y la adaptación en base a este feedback 
+        -  Podemos tomar decisiones basadas en hechos
 -  Mejora el retorno de la inversión
     -  Al generar mejoras de producto antes, y más frecuentemente, también podemos empezar a generar antes los beneficios debidos a esas mejoras
 -  Error acotado
     -  ¿Cómo de mal lo puedes hacer en un sprint de dos semanas? En el peor de los casos, si lo hicieras todo mal habrás perdido tan solo dos semanas
-
-## Duración corta
-
-
--  Entusiasmo renovado
-    -  Es común que el interés y el entusiasmo disminuyan conforme tenemos que esperar más una gratificación    
-        -  Sin progreso visible y sin ver el final cerca, perdemos interés
-    -  Los sprints cortos permiten entregar cosas que funcionan frecuentemente    
-        -  Esto es gratificante y por tanto mantiene más alto el interés del equipo
--  Puntos de control frecuentes
-    -  Los gerentes, los clientes, los dueños del producto etc. tienen más puntos de control que con otras metodologías    
-        -  Más oportunidades de inspeccionar y adaptarse a un entorno complejo
-    -  La revisión del sprint nos permite basar decisiones en hechos    
-        -  Siendo estos hechos la funcionalidad completada durante el sprint
-
-##  Duración consistente
-
-Duración consistente
 
 ## Duración consistente
 
@@ -105,13 +90,6 @@ Duración consistente
     -  Facilita la agenda    
         -  Es más fácil organizar reuniones cuando sabemos las fechas de las próximas N con anticipación
     -  Facilita coordinar a varios equipos en el mismo proyecto
-
-## Duración consistente
-
-
--  La duración consistente facilita la planificación
-    -  Tras haber hecho varios sprints de la misma duración, podremos estimar bastante bien la cantidad de trabajo que un equipo puede terminar en cada sprint ( velocity )    
-        -  Con iteraciones de duración variable se complica esta estimación
     -  Si tenemos una fecha de lanzamiento/entrega predefinida, sabemos fácilmente cuántos sprints tendremos hasta esa fecha
 
 ## Objetivo de un sprint
@@ -179,7 +157,7 @@ Duración consistente
 ## Terminación anormal
 
 
-![](media/7i_GPS-S05-Scrum-Sprints-terminacion-anormal-0.png)
+![](media/7i_GPS-S06-Scrum-Sprints-terminacion-anormal-0.png)
 
 ##  Definición de hecho
 
@@ -231,10 +209,24 @@ Definición de hecho
     -  Muchos equipos incluyen como una entrada más de la definición de hecho “criterios de aceptación pasados”    
         -  En ese caso toda entrada de la pila hecha también estará completa/aceptada
 
-## Definición de hecho en Gitlab
+##  Definición de hecho en GitLab
+
+Definición de hecho en GitLab
+
+## 
 
 
-![](media/7i_GPS-S05-Scrum-Sprints-definicion-de-hecho-en-gitlab-0.png)
+![](media/7i_GPS-S06-Scrum-Sprints-p23-0.png)
+
+## 
+
+
+![](media/7i_GPS-S06-Scrum-Sprints-p24-0.png)
+
+## 
+
+
+![](media/7i_GPS-S06-Scrum-Sprints-p25-0.png)
 
 ##  Actividades de un sprint
 
@@ -250,14 +242,15 @@ Planificación
 -  Se decide un objetivo para el sprint, y se eligen las entradas de la pila que encajan con este objetivo
 -  Se planifica el sprint para que el equipo adquiera confianza en que podrá completarlo
     -  Justo al principio de cada sprint
-    -  Se suelen dedicar unas 2 horas por cada semana del sprint
+    -  Se pueden dedicar hasta 2 horas por cada semana del sprint    
+        -  Este tiempo puede disminuir conforme los equipos adquieren experiencia en el producto en el que trabajan
     -  “ Adquirir confianza” significa que una vez concluida la planificación, el equipo confía en que podrán terminar todo lo que han planificado dentro del sprint
 -  Las entradas de la pila elegidas y el plan del sprint forman la pila del sprint
 
 ## Entradas del proceso de planificación de un sprint
 
 
--  Una pila del producto adecuadamente mantenida ( grooming )
+-  Una pila del producto adecuadamente mantenida ( groomed )
     -  Las entradas de la parte superior están listas    
         -  Criterios de aceptación claros, tamaño adecuado, estimadas, priorizadas
 -  Un objetivo claro para el sprint (por parte del dueño del producto)
@@ -269,13 +262,13 @@ Planificación
 ## Planificación de sprint
 
 
-![](media/7i_GPS-S05-Scrum-Sprints-p30-0.png)
+![](media/7i_GPS-S06-Scrum-Sprints-p30-0.png)
 
 ## Determinar la capacidad
 
 
 -  Para la planificación tenemos que calcular  la capacidad que tiene el equipo para trabajar en entradas de la pila  durante el sprint
--  El tiempo disponible (p.ej. “jornadas laborables en el sprint”) no se usa solo para trabajar en entradas de la pila
+-  El tiempo disponible (p.ej., “jornadas laborables en el sprint”) no se usa solo para trabajar en entradas de la pila
     -  Otras actividades del sprint    
         -  Planificación, revisión, retrospectiva,  grooming  de la pila del producto
     -  Actividades relacionadas con la mejora del proceso Scrum, posiblemente decididas en alguna retrospectiva anterior
@@ -289,7 +282,7 @@ Planificación
 
 
 -  Si expresamos la velocidad del equipo en puntos de historia, determinar la capacidad disponible para un sprint es predecir la velocidad para ese sprint
--  Se coge la velocidad media del equipo, y si si el sprint no va a ser un sprint “promedio”, entonces se ajusta (normalmente a la baja)
+-  Se coge la velocidad media del equipo, y si el sprint no va a ser un sprint “promedio”, entonces se ajusta (normalmente a la baja)
     -  Por ejemplo si va a haber mucha gente de vacaciones u otros proyectos robando mucho tiempo habrá que bajarla
 
 ## Capacidad en horas-persona
@@ -305,16 +298,17 @@ Planificación
 
 -  Si hemos definido un objetivo claro para el sprint, elegimos las entradas que encajen con él
 -  Si no, elegiremos entradas de las de la cima de la pila en orden de más a menos prioridad
-    -  Si p.ej. tras elegir las dos primeras, y con capacidad disponible, vemos que no queda capacidad para la tercera, probaremos con la cuarta que puede ser más corta
+    -  Si, p.ej., tras elegir las dos primeras, y aún con capacidad disponible, vemos que no queda capacidad para la tercera, probaremos con la cuarta que puede ser más corta
     -  O trataremos de partir la tercera en dos o más
 -  Se empieza solo lo que se puede terminar en el sprint
 
 ## Adquirir confianza
 
 
--  Usar la velocidad media del equipo para determinar si el compromiso es realista
+-  Podemos usar la velocidad del equipo para determinar si el compromiso es realista
     -  Si haces entre 25 y 30 puntos de historia por sprint, comprometerte a hacer 25 es razonable a priori
--  Pero es más fiable dividir las entradas elegidas en tareas, porque hasta que no haces esta división, hay cosas que no sabes
+    -  Un equipo con experiencia que lleva tiempo trabajando en un producto puede encontrar que esto es suficiente
+-  Pero es aún más fiable dividir las entradas elegidas en tareas, porque hasta que no haces esta división, hay cosas que no sabes
     -  Interdependencias, demasiadas tareas que solo un miembro del equipo sabe hacer etc.
 -  ¿Cuántas tareas? ¿Cuáles?
     -  Las que hagan falta para cumplir la definición de hecho y ser aceptadas por el dueño de producto
@@ -324,7 +318,7 @@ Planificación
 
 
 -  El resultado de la planificación del sprint es la pila del sprint
-![](media/7i_GPS-S05-Scrum-Sprints-la-pila-del-sprint-0.png)
+![](media/7i_GPS-S06-Scrum-Sprints-la-pila-del-sprint-0.png)
 
 ## La pila del sprint
 
@@ -332,7 +326,7 @@ Planificación
 -  En la pila del sprint no está toda la información para saber si hemos adquirido un compromiso razonable
     -  P.ej., ¿qué pasa si el especialista en interfaz de usuario va a estar de vacaciones más de medio sprint?
 -  En Scrum generalmente no se asignan miembros del equipo a tareas durante la planificación del sprint
-    -  Pero al menos hay que considerar esto lo suficiente como para determinar si el compromiso para el sprint es o no es razonable
+    -  Pero al menos hay que tener esto en cuenta lo suficiente como para determinar si el compromiso para el sprint es o no es razonable
 
 ## Finalizar el compromiso
 
@@ -355,8 +349,8 @@ Ejecución
 
 
 -  Empieza tras la planificación del sprint y termina antes de la revisión
--  Suele ocupar aproximadamente el 80% del tiempo del sprint
-    -  El resto del tiempo se empleará en hacer grooming de la pila y, sobre todo, en las reuniones de planificación, revisión y retrospectiva
+-  Ocupa la mayor parte del tiempo del sprint
+    -  También habrá que dejar tiempo para hacer grooming de la pila y para las reuniones de planificación, revisión y retrospectiva
 -  Los miembros del equipo se auto-organizan para determinar la mejor forma de alcanzar el objetivo establecido en la planificación
     -  El ScrumMaster facilita el trabajo al equipo    
         -  No se encarga de repartir trabajo ni de decir cómo se hace
@@ -366,7 +360,7 @@ Ejecución
 
 
 -  El equipo ha creado una pila del sprint durante su planificación
--  No es un plan de trabajo detallado en forma p.ej. de diagrama de Gantt
+-  No es un plan de trabajo detallado en forma, p.ej., de diagrama de Gantt
     -  El coste de crear algo así de detallado para cada sprint sería difícil de justificar
 -  Sí que es importante hacer la planificación suficiente para exponer dependencias fuertes entre tareas y así poder ordenarlas en el tiempo
     -  El resto se puede abordar de forma oportunista, durante la ejecución del sprint
@@ -375,12 +369,13 @@ Ejecución
 
 
 -  Primero se elige por dónde empezar
-    -  Por las PBI más prioritarias es lo más obvio
-    -  Dependencias técnicas o restricciones por el personal disponible pueden hacer esto imposible
--  También hay que evitar pensar que cada PBI se aborde con metodología en cascada
-    -  Diseño un poco de la PBI, lo implemento, lo pruebo, diseño un poco más…    
+    -  Por las PBI más prioritarias de la pila del sprint es lo más obvio
+    -  Dependencias técnicas o restricciones por el personal disponible pueden afectar a esto
+-  También hay que evitar pensar en cada PBI como un “miniproyecto” con metodología en cascada
+    -  No: diseño la PBI, luego la implemento y al final del sprint la pruebo
+    -  Sí: diseño un poco de la PBI, lo implemento, lo pruebo, diseño un poco más…    
         -  Esto facilita aún más el repartir y paralelizar el trabajo
--  El equipo decide qué tareas hay que hacer y quién hará cada una
+-  El equipo decide qué tareas hay que hacer en cada momento y quién hará cada una
 
 ## Organizar el trabajo
 
@@ -392,20 +387,24 @@ Ejecución
     -  Esto requiere que todo el mundo sepa hacer distintas cosas
 -  No es que haya que evitar siempre el estar trabajando en varias PBI al mismo tiempo
     -  Hay que evaluar el trabajo pendiente, las habilidades de cada cual etc.
--  Lo que hay que evitar es abordar el sprint como si fuera un miniproyecto en sí mismo, con una aproximación en cascada
-    -  Por ejemplo, no queremos analizar todo antes de empezar a diseñar, ni diseñar/implementar todo antes de empezar a hacer pruebas
+-  Igual que con las PBI, también hay que evitar abordar cada sprint como si fuera un “miniproyecto” con una aproximación en cascada
+    -  Por ejemplo, no queremos analizar todas las PBI antes de empezar a diseñarlas, ni diseñar/implementar todo antes de empezar a hacer pruebas
     -  El riesgo de no completar ninguna entrada de la pila es grande si lo hacemos así
 
 ## Scrum diario
 
 
--  Es parte de la inspección y adaptación diaria
-    -  Se ve lo que está haciendo todo el mundo
+-  Es parte de la inspección y adaptación (principio ágil)
+    -  Cada día se ve lo que está haciendo todo el mundo    
+        -  No solo lo que te afecta más directamente, que esto lo verías casi seguro aunque no se hiciera el Scrum diario
     -  Salen a la luz posibles problemas sin esperar más de 24 horas
     -  Facilita la planificación oportunista
 -  15 minutos, siempre a la misma hora
 -  Es una actividad crítica para que Scrum funcione bien
-    -  La auto-organización del equipo es casi imposible si el equipo no habla con frecuencia
+    -  La auto-organización del equipo es imposible si el equipo no habla con frecuencia, y esta reunión es la forma de asegurar que se habla al menos una vez al día
+-  Con una metodología tradicional esta reunión se vería como un desperdicio
+    -  Un tiempo en el que la gente no está “produciendo”
+    -  Innecesaria, porque en este tipo de proyectos se asume que solo la directora del proyecto necesita saber lo que hace la gente, tener visión global del proyecto y coordinar/repartir las tareas
 
 ## Comunicación
 
@@ -419,7 +418,7 @@ Ejecución
 ## 
 
 
-![](media/7i_GPS-S05-Scrum-Sprints-p47-0.png)
+![](media/7i_GPS-S06-Scrum-Sprints-p47-0.png)
 
 ## Diagrama de burndown del sprint
 
@@ -428,12 +427,13 @@ Ejecución
 -  El eje horizontal son los días dentro del sprint
 -  El diagrama representa las horas de esfuerzo que nos quedan para completar todas las tareas de la pila del sprint
     -  Horas  estimadas . Este diagrama no representa horas reales invertidas    
-        -  P.ej. no se puede usar para el control de esfuerzos del equipo Scrum
+        -  Si una tarea se estimó en 4 horas y nos ha costado 8, en este diagrama pondremos 4
+        -  Por tanto no se puede usar para el control de esfuerzos del equipo Scrum
 
 ## 
 
 
-![](media/7i_GPS-S05-Scrum-Sprints-p49-0.png)
+![](media/7i_GPS-S06-Scrum-Sprints-p49-0.png)
 
 ## Diagrama de burndown
 
@@ -443,31 +443,32 @@ Ejecución
 ## 
 
 
-![](media/7i_GPS-S05-Scrum-Sprints-p51-0.png)
+![](media/7i_GPS-S06-Scrum-Sprints-p51-0.png)
 
 ## Diagrama de burnup del sprint
 
 
 -  El eje vertical son horas-persona o puntos de historia
-    -  Los puntos de historia pueden ser más adecuados porque son una medida de progreso real (características terminadas y entregables)
+    -  Los puntos de historia serán en general más adecuados porque son una medida de progreso real    
+        -  Porque sí o sí representan PBI terminadas 
 -  El eje horizontal son los días dentro del sprint
 -  El diagrama representa el progreso llevado a cabo en el sprint
 
 ## 
 
 
-![](media/7i_GPS-S05-Scrum-Sprints-p53-0.png)
+![](media/7i_GPS-S06-Scrum-Sprints-p53-0.png)
 
 ## Diagrama de burnup
 
 
--  ¿Cuántas entradas de la pila del producto se habían planificado para el sprint anterior según el diagrama de  burnup  que muestra buena circulación?
+-  ¿Cuántas entradas de la pila del producto se habían planificado para el sprint anterior según el diagrama de  burnup  que muestra buena circulación ( flow )?
 
 ## Inciso. ¿Por qué tableros y diagramas bien visibles?
 
 
 -  Tenerlos actualizados y bien visibles los convierte en “radiadores” de información
-    -  Metáfora del radiador (da calor solo con pasar cerca) frente a la nevera (tienes que ir de propio a buscar algo y abrirla para ver lo que hay dentro)
+    -  Metáfora del radiador (da calor solo con pasar cerca) frente a la nevera (tienes que ir a buscar algo y abrirla para ver lo que hay dentro)
     -  Cualquiera que pase delante los ve, y esto puede traducirse en oportunidades    
         -  Detección temprana de problemas, surgen ideas nuevas etc.
 -  Por otra parte, un meta-análisis realizado por la Universidad de Sheffield concluyó que
@@ -486,9 +487,9 @@ Revisión
     -  El estado actual del producto
 -  Además del equipo Scrum completo, debe incluir gente (interesada) que no está disponible durante el sprint
     -  Internos    
-        -  Ejecutivos, usuarios internos, personal de ventas, personal de soporte a usuarios...
+        -  Ejecutivos de la empresa, usuarios internos (si es un dpto. de la empresa el que va a hacer uso de la aplicación), personal de ventas (que tendrá que vender la aplicación), personal de soporte a usuarios (que tendrá que ayudar con sus dudas)...
     -  Externos    
-        -  Clientes, usuarios, socios
+        -  Clientes, usuarios, socios…
 
 ## Preparación de la revisión
 
@@ -504,9 +505,9 @@ Revisión
 ## Ejecución de la revisión
 
 
--  Alguien (p.ej. el dueño del producto) cuenta el objetivo del sprint, las entradas de la pila asociadas y un resumen de lo que se ha completado
+-  Alguien (típicamente el dueño del producto) cuenta el objetivo del sprint, las entradas de la pila asociadas y un resumen de lo que se ha completado
 -  Se hace una demo de las características relevantes implementadas
-    -  A veces es buena idea que sean los propios clientes/usuarios los que “toquen” el producto con sus manos
+    -  A veces es buena idea que sean clientes/usuarios “toquen” el producto con sus manos
 -  Se discute y se opina sobre lo que se ha visto (ideas, problemas, mejoras...)
     -  No se solucionan problemas graves, pero se sacan a la luz
 -  Muchas veces se aprovecha para hacer algo de  grooming  de la pila del producto
@@ -549,11 +550,11 @@ Retrospectiva
 -  Decidir el foco
     -  Por defecto todos los aspectos del proceso Scrum 
     -  Se puede elegir algo más concreto que sea importante para el equipo y que vaya a requerir esfuerzo    
-        -  P.ej. “Mejorar nuestro proceso de tests”
+        -  P.ej., “mejorar nuestro proceso de testing”
     -  Con el foco determinado, se puede decidir si se invita a alguien externo al equipo Scrum
 -  Decidir los ejercicios a realizar
 -  Recopilar datos objetivos
-    -  P.ej. entradas de la pila que no se terminaron, los diagramas de  burndown / burnup  del sprint, bugs detectados etc. 
+    -  P.ej., entradas de la pila que no se terminaron, los diagramas de  burndown / burnup  del sprint, bugs detectados etc. 
     -  Depende del foco
 -  Establecer duración
     -  Como pauta, entre 30 y 45 minutos por cada semana de sprint
@@ -562,7 +563,7 @@ Retrospectiva
 
 
 -  Dejar claro que todo el mundo puede expresar sus opiniones, también las negativas, sin temor
-    -  Pero la retrospectiva no es el sitio para sacar a la luz problemas con individuos concretos    
+    -  Pero la retrospectiva no es el sitio para sacar a la luz problemas con personas concretas    
         -  Es para hablar del proceso y de la organización del trabajo
 -  Usar los datos objetivos como forma de que todo el mundo comparta una visión común de lo ocurrido durante el sprint
     -  Y luego compartir las posibles visiones subjetiva de cada uno para terminar de asegurarnos de que no hay visiones dispares que no se han compartido
@@ -607,7 +608,7 @@ Retrospectiva
     -  Y comprobar si acciones decididas con anterioridad funcionan
 -  Lo primero es decidir qué problemas son más urgentes
     -  Se puede hacer como una votación ponderada de los miembros del equipo    
-        -  P.ej. cada uno tiene 5 votos y los puede repartir como quiera entre los problemas identificados
+        -  P.ej., cada persona tiene 5 votos y los puede repartir como quiera entre los problemas identificados
 -  Luego se determina cuánto tiempo se dedicará a solucionarlos
     -  El dueño del producto, presente en la reunión, tiene mucho que decir aquí
 -  Finalmente se deciden las acciones que se llevarán a cabo
@@ -616,12 +617,14 @@ Retrospectiva
 
 
 -  Muchas acciones tomarán la forma de tareas específicas que algún miembro del equipo Scrum realizará en el próximo sprint
-    -  P.ej., si “el proceso de pasar los tests lleva mucho tiempo” una acción puede ser “implementar un sistema que los llame automáticamente como parte del proceso de compilación”
-    -  El equipo decide quién y calcula cuánto tiempo llevará (de cara a la planificación del próximo sprint)
+    -  P.ej., si “el proceso de pasar los tests manuales en móviles reales” cuesta mucho tiempo, una acción puede ser “implementar un sistema que automatice el despliegue y que abra automáticamente las apps en los móviles de pruebas”    
+        -  Buscando que los testers no pierdan el tiempo con esa parte
+    -  El equipo decide quién lo hará, y calcula cuánto tiempo llevará    
+        -  Esto se tendrá en cuenta en la planificación del próximo sprint
 -  Hay acciones que no restarán capacidad al equipo
     -  “Hay que ser puntual en el Scrum diario”
 -  Hay problemas que dependen de otros
-    -  La acción la hará un miembro del equipo, pero dependerá de otros    
+    -  La acción la hará un miembro del equipo, pero el resultado dependerá de otros    
         -  “Conseguir que los de administración nos permitan comprar un nuevo servidor de pruebas”
 -  Habrá problemas que no entendemos lo suficiente como para pensar una acción para solucionarlos
     -  Podemos establecer como acción una exploración para comprender mejor el problema
@@ -630,19 +633,28 @@ Retrospectiva
 
 
 -  Hay cosas que pueden parecer acciones de mejora, pero que no son muy “accionables”
-    -  Habría que trabajar en lotes más pequeños, hacer requisitos más fáciles de entender, escribir más tests unitarios, mejorar las estimaciones…    
-        -  Son vagas y más buenos deseos que acciones concretas de mejora
--  Se deberían expresar cosas más concretas que contribuyan a mejorar esos problemas
-    -  Hay que hacer check-in del código al Git al menos dos veces al día, cada PBI debe llevar criterios de aceptación definidos estilo BDD/A-TDD, hay que crear un test automático para cada bug que se detecte antes de arreglarlo, usaremos siempre póquer de planificación durante el grooming de la pila...
+    -  Trabajar en lotes más pequeños
+    -  Hacer requisitos más fáciles de entender
+    -  Escribir más tests unitarios
+    -  Mejorar las estimaciones
+    -  ...
+-  Las anteriores son vagas y más buenos deseos que acciones concretas de mejora
+-  Se deben expresar cosas más concretas, cuantitativas, medibles... que contribuyan a mejorar esos problemas
+    -  Cada persona tiene que hacer commit del código al Git al menos dos veces al día
+    -  Cada PBI debe llevar criterios de aceptación definidos estilo BDD/A-TDD
+    -  Hay que crear al menos un test automático para cada bug que se detecte antes de proceder a arreglarlo
+    -  Usaremos siempre póquer de planificación al estimar PBI
+    -  ...
 
 ## Realizar las acciones
 
 
 -  Las acciones decididas no deben quedarse en la retrospectiva, hay que abordarlas
 -  No es buena idea tener un plan de mejora separado del trabajo habitual del sprint
-    -  Lo normal es que este plan de mejora acabe como algo secundario frente al resto del trabajo
+    -  Lo normal es que este plan de mejora acabe como algo secundario en comparación con el resto del trabajo que siempre será más prioritario
 -  Para que las acciones se hagan, lo mejor es considerarlas como tareas durante la planificación del siguiente sprint
-    -  Así restan capacidad al equipo: estamos reservando específicamente el tiempo para realizarlas
+    -  Así restan capacidad al equipo    
+        -  O sea, que estamos reservando tiempo para realizarlas de manera explícita
 -  Y dedicar algo de tiempo en cada retrospectiva a analizar si lo que se decidió hacer en la anterior se ha hecho, y si ha funcionado o no
 
 ## Posibles problemas
@@ -656,7 +668,7 @@ Retrospectiva
         -  Se habla de problemas, pero es para determinar cómo se van a resolver
     -  Los problemas no se resuelven durante la retrospectiva    
         -  Se detectan y se determinan acciones de mejora que se llevan a cabo  después
--  Si hay problemas graves que no salen a la luz en las retrospectivas, no se va a mejorar sustancialmente
+-  Si hay problemas graves que no salen a la luz en las retrospectivas, esos no se van a mejorar sustancialmente
     -  El ScrumMaster tiene que detectar esto y ayudar a resolverlo
 
 ## Bibliografía
@@ -668,5 +680,5 @@ Retrospectiva
 ## 
 
 
-![](media/7i_GPS-S05-Scrum-Sprints-p76-0.png)
+![](media/7i_GPS-S06-Scrum-Sprints-p76-0.png)
 

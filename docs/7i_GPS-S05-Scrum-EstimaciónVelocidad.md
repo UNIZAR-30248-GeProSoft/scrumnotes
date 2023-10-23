@@ -1,4 +1,4 @@
-# 7i_GPS-S06-Scrum-EstimaciónVelocidad
+# 7i_GPS-S05-Scrum-EstimaciónVelocidad
 
 
 
@@ -29,13 +29,7 @@
 
 -  Velocidad de un equipo en un sprint :
     -  La suma de las  estimaciones  de tamaño de las entradas de la pila que el equipo  completó  (definición de hecho + aceptación) en el sprint
--  Podemos calcular la media, pero normalmente daremos un rango de velocidades
-    -  Dependiendo de las unidades en que midamos, la media puede no tener mucho sentido
-
-## 
-
-
-![](media/7i_GPS-S06-Scrum-EstimaciónVelocidad-p5-0.png)
+-  Podemos calcular solo la media, pero normalmente daremos un rango de velocidades
 
 ## Qué y cuándo estimar
 
@@ -98,11 +92,6 @@ Estimar PBI
         -  Al final de este tira y afloja las estimaciones serán de todo menos fiables
 -  Lo que queremos son buenas estimaciones
 
-## 
-
-
-![](media/7i_GPS-S06-Scrum-EstimaciónVelocidad-p13-0.png)
-
 ## Exactitud o precisión (accuracy vs precision)
 
 
@@ -114,7 +103,7 @@ Estimar PBI
         -  Si nuestro proceso de medida añade un error sistemático pequeño, todas nuestras medidas serán parecidas entre sí        
             -  Poca dispersión, alta precisión
         -  Pero sin comparar las medidas con el valor real, no sabemos si son exactas o no        
-            -  Aunque el proceso de medida añada poco error sistemático, es posible que lo que estemos midiendo tenga un error no sistemático (ruido) muy grande y por tanto nuestras medidas no serán muy exactas
+            -  Aunque el proceso de medida añada poco error sistemático, es posible que lo que estemos midiendo tenga un error no sistemático muy grande y por tanto nuestras medidas no serán muy exactas
 -  Estimar hasta un nivel de precisión muy alto es un desperdicio
     -  A partir de cierto punto, meter esfuerzo en una estimación para tratar de hacerla más precisa no la hace más exacta
 
@@ -125,7 +114,7 @@ Hay un señor que está hablando con el guía del museo del cosmos.  —¿Cuál 
 ## 
 
 
-![](media/7i_GPS-S06-Scrum-EstimaciónVelocidad-p16-0.png)
+![](media/7i_GPS-S05-Scrum-EstimaciónVelocidad-p14-0.png)
 
 ## Estimación de tamaños relativos
 
@@ -151,7 +140,8 @@ Hay un señor que está hablando con el guía del museo del cosmos.  —¿Cuál 
 -  La segunda elección más habitual para estimar PBI
 -  Número de días-persona necesarios para completar una historia
 -  Son días ideales
-    -  El equipo decidirá cual es su definición de “día ideal”. P.ej. “6 horas de trabajo continuado”.
+    -  El equipo decidirá cual es su definición de “día ideal”    
+        -  P.ej., “6 horas de trabajo seguidas sin interrupciones de otros proyectos”
 -  Hay más riesgo de malentendidos con los días ideales que con los puntos de historia
     -  Además, es difícil usarlo como medida relativa al estar definida en unidades de tiempo    
         -  Son ideales, pero siguen siendo días, y la tendencia es pensar en los días como días de calendario
@@ -161,26 +151,22 @@ Hay un señor que está hablando con el guía del museo del cosmos.  —¿Cuál 
 
 -  Hoy es lunes y son las 8 de la madrugada. Te señalo una PBI y te pregunto que en cuánto está estimado que cueste hacerla. Me dices que 2 días ideales. ¿Estará para el miércoles?
 
-## De tallas de ropa a puntos de historia
-
-
--  Tomad la pila del producto (de vuestro proyecto) en su estado actual (entradas estimadas en tallas de ropa) y la pila del sprint actual (entradas de la pila divididas en tareas de X horas-persona)
--  A partir de ahí estimad puntos de historia para algunas de las entradas de la pila del producto. Usad solo estos valores: 1, 2, 3, 5, 8, 13, 20, 40 y 100
-    -  Coged las entradas de menos esfuerzo, asignadles 1 o 2 puntos de historia y seguid desde ahí
-
 ## Escala de estimación
 
 
--  Buscamos favorecer la exactitud sobre la precisión
+-  Buscamos exactitud antes que precisión
     -  Para ello usamos escalas en las que no están todos los números    
         -  Las unidades serán las que se usen: puntos de historia o días ideales
 -  La escala más común es una secuencia de Fibonacci modificada
     -  1, 2, 3, 5, 8, 13, 20, 40 y 100
--  Una alternativa es usar potencias de dos
-    -  1, 2, 4, 8, 16, 32, ...
--  Agrupamos PBI similares en esfuerzo y les damos el mismo número
-    -  Las PBI con el mismo número serán de esfuerzos parecidos, aunque no iguales
-![](media/7i_GPS-S06-Scrum-EstimaciónVelocidad-escala-de-estimacion-0.png)
+-  Con estas escalas, agrupamos las PBI que estimamos que requieren esfuerzos parecidos dentro de un mismo número
+    -  Nuestras estimaciones serán exactas si todas las PBI de 5 puntos de historia cuestan menos que todas las PBI de 8 etc.
+    -  Si usáramos todos los números, todas las PBI de 5 deberían costar menos que todas las de 6, que a su vez deberían costar menos que todas las de 7...    
+        -  Esto es mucho más difícil de conseguir y cuesta mucho más esfuerzo
+        -  Tratando de ganar precisión acabaríamos perdiendo exactitud (y/o invirtiendo mucho más tiempo)
+-  Limitar los números disponibles también nos fuerza a buscar consensos y no “términos medios)
+    -  Ya lo veremos con el póquer de planificación
+![](media/7i_GPS-S05-Scrum-EstimaciónVelocidad-escala-de-estimacion-0.png)
 
 ##  Velocidad
 
@@ -190,11 +176,11 @@ Velocidad
 
 
 -  Cantidad de trabajo completada en cada sprint
-    -  Mide tamaño/esfuerzo de las tares completadas, no su valor para clientes o usuarios    
+    -  Mide tamaño/esfuerzo del trabajo completado, no su valor para clientes o usuarios    
         -  Todas las PBI tienen algún valor (o no deberían estar en la pila)
         -  Pero tamaño y valor no necesariamente están relacionados        
             -  Hay cosas que cuesta poco hacer y pueden tener un impacto importante en, por ejemplo, el éxito comercial del producto
--  Se mide sumando el tamaño  estimado  de las PBI completadas en el sprint
+-  Se mide sumando el tamaño  estimado  de las  PBI completadas  en el sprint
     -  Recordatorio: una PBI se ha completado si está “hecha” y “aceptada”
 -  Esencial para la planificación
     -  Para planificar un lanzamiento, dividimos el tamaño del mismo por la velocidad media del equipo para estimar los sprints necesarios
@@ -205,25 +191,23 @@ Velocidad
 
 
 -  Para la planificación lo más útil es expresar la velocidad como un rango
-    -  Por ejemplo: el equipo suele completar entre 25 y 30 puntos de historia cada sprint
+    -  Por ejemplo, el equipo suele completar entre 25 y 30 puntos de historia cada sprint
     -  Preferimos exactitud que excesiva precisión
 -  El rango permite comunicar incertidumbre, algo que un valor concreto oculta
-
-## Inciso: rangos y estimación en proyectos de software
-
-
-![](media/7i_GPS-S06-Scrum-EstimaciónVelocidad-inciso-rangos-y-estimacion-en-proyectos-de-software-0.svm)
 
 ## Calcular un rango de velocidades
 
 
--  Si para un lanzamiento hemos estimado 200 puntos de esfuerzo, y la velocidad media del equipo es entre 17 y 20 puntos por sprint, necesitaremos entre 10 y 12 sprints para completar el lanzamiento
+-  La velocidad nos ayuda en la planificación. Por ejemplo:
+    -  Para un lanzamiento hemos estimado que entrarán PBI por valor de 200 puntos de historia
+    -  La velocidad media del equipo está entre 17 y 20 puntos por sprint
+    -  Necesitaremos pues entre 10 y 12 sprints para completar el lanzamiento
 
 ## Calcular un rango de velocidades
 
 
 -  Para calcular la velocidad baja y la alta no hay una forma exigida
--  Una fácil es coger las velocidades históricas y tomar un intervalo de p.ej. el 90% asumiendo que es una distribución normal (1,645 sigmas):
+-  Una fácil es coger las velocidades históricas y tomar un intervalo de, p.ej., el 90% asumiendo que es una distribución normal (1,645 desviaciones estándar):
     -  Rango = (Media +/- 1,645 * Desviación estándar)
     -  Ejemplo: valores históricos 17, 21, 20, 15, 25, 16, 20 Rango = (19,1 +/- 1,645 * 3,4) (y luego redondeando, que los puntos de historia no tienen decimales): (14, 25)
 -  También podemos dividir los valores históricos en dos grupos, por encima de la mediana y por debajo, y calcular luego la media de cada uno como valores para el rango
@@ -231,12 +215,12 @@ Velocidad
 ## Predecir la velocidad
 
 
--  Si no tenemos datos históricos (p.ej. equipo nuevo) tendremos que predecir la velocidad del equipo
--  Opción común: que el equipo planifique un sprint y, si nos parece razonable, tomar la suma de tamaños de las PBI para el sprint como su velocidad predicha
+-  Si no tenemos datos históricos (equipo nuevo) tendremos que predecir la velocidad del equipo
+-  Una opción común es que el equipo planifique un sprint y, si nos parece razonable, tomar la suma de tamaños de las PBI para el sprint como su velocidad predicha
     -  Para tener un rango podemos añadir/restar valores a esa predicción a partir de datos de otros equipos, o podemos pedirles que estimen dos sprints y usar esos resultados
 -  En cuanto tengamos un valor real, descartaremos la predicción y usaremos ese
 
-## Usos incorrectos de la velocidad
+## Usos correctos e incorrectos de la velocidad
 
 
 -  Es una herramienta de planificación y de diagnóstico del equipo
@@ -255,5 +239,5 @@ Velocidad
 ## 
 
 
-![](media/7i_GPS-S06-Scrum-EstimaciónVelocidad-p32-0.png)
+![](media/7i_GPS-S05-Scrum-EstimaciónVelocidad-p28-0.png)
 

@@ -53,10 +53,11 @@ nav:
   - Inicio: index.md
   - Introducción: 7i_GPS-S01-Scrum-Introducción.md
   - Principios ágiles: 7i_GPS-S02-Scrum-PrincipiosÁgiles.md  
+  - Principios ágiles. Detecting agile bullshit: 7i_GPS-S02b-Scrum-PrincipiosÁgiles-DetectingAgileBullshit.md
   - Requisitos e historias de usuario: 7i_GPS-S03-Scrum-RequisitosHistoriasUsuario.md
   - La pila del producto: 7i_GPS-S04-Scrum-PilaDelProducto.md
-  - Sprints: 7i_GPS-S05-Scrum-Sprints.md 
-  - Estimación y velocidad: 7i_GPS-S06-Scrum-EstimaciónVelocidad.md
+  - Estimación y velocidad: 7i_GPS-S05-Scrum-EstimaciónVelocidad.md
+  - Sprints: 7i_GPS-S06-Scrum-Sprints.md   
   - Planificación: 7i_GPS-S07-Scrum-Planificación.md  
   - Roles: 7i_GPS-S08-Scrum-Roles.md
 

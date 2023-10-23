@@ -262,7 +262,7 @@ Principio 2. Predicción y adaptación
 -  Hay que validar las suposiciones importantes pronto
     -  Sin validar, son un riesgo grave
     -  ¿El hardware está dimensionado adecuadamente? ¿Esta biblioteca de verdad tiene toda la funcionalidad necesaria? ¿La API externa está bien documentada?...
--  El aprendizaje es cíclico
+-  El aprendizaje es continuo
     -  Suposición (hipótesis) → experimento → resultados ( feedback) →  aprendizaje
     -  Además de la exploración que hemos mencionado antes, los scrums diarios o las revisiones de los sprints son mini-experimentos que realizamos periódicamente y que nos permiten ir validando hipótesis
 -  Hay que organizar el trabajo para poder obtener  feedback  rápido
@@ -386,7 +386,7 @@ Principio 3. Trabajo en marcha ( work in progress / process )
 -  Una analogía para ilustrar el punto anterior: cuando el PC está ocupado al 100% (procesador y memoria), ¿qué ocurre?
     -  Se enlentece enormemente
 -  Una regla aproximada es que un sistema (en este caso sería un trabajador) ocupado por encima del 80/85% de su capacidad se empieza a sobrecargar muy rápido
-    -  Cuando los analizamos, vemos un diagrama en forma de “palo de Hockey”
+    -  Cuando lo analizamos, veremos un diagrama en forma de “palo de Hockey”
 ![](media/7i_GPS-S02-Scrum-PrincipiosÁgiles-focalizate-en-el-trabajo-parado-no-en-los-trabajadores-parados-0.png)
 
 ## Considera el coste del retraso
@@ -408,7 +408,7 @@ Principio 4. Progreso
     -  Terminar a tiempo y dentro del presupuesto sin alcanzar las expectativas del cliente no es un éxito real
     -  Scrum mide el progreso creando y validando  resultados    
         -  Entregados al cliente y validados por este
--  Hay que focalízarse pues en entregar valor
+-  Hay que focalizarse pues en entregar valor
     -  Con un plan tradicional, la entrega de valor se hace al final    
         -  Si el proyecto fracasa y se queda parado a mitad, no habrás entregado nada en absoluto
     -  En Scrum, las características más valiosas para el cliente son las que se abordan antes    
