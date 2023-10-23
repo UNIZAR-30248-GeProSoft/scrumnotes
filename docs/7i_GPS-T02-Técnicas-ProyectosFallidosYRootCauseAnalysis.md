@@ -617,7 +617,7 @@ Análisis de la causa raíz y los diagramas causa-efecto
 ## Ejemplo de diagrama de espina de pez
 
 ```
- Image under a Creative Commons Attribution-Share Alike 4.0 International, by VARGUX
+Image under a Creative Commons Attribution-Share Alike 4.0 International, by VARGUX
 ```
 ![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p59-0.png)
 
@@ -759,7 +759,7 @@ Ejemplo
 ## Un diagrama de causa-efecto con los fallos del LASCAD
 
 ```
- Tomada de (Kornecki, Riddle y Lewis, 2003)
+Tomada de (Kornecki, Riddle y Lewis, 2003)
 ```
 ![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p75-0.png)
 

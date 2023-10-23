@@ -528,11 +528,11 @@ Estructuración de equipos Scrum
 ## 
 
 ```
- PBI funcionales
+PBI funcionales
 ``````
- PBI técnicas
+PBI técnicas
 ``````
- Por ejemplo: 
+Por ejemplo: 
 ```
 ![](media/7i_GPS-S08-Scrum-Roles-p52-0.png)
 
@@ -551,13 +551,13 @@ Estructuración de equipos Scrum
 ## 
 
 ```
- PBI funcionales
+PBI funcionales
 ``````
- PBI técnicas
+PBI técnicas
 ``````
- PBI técnicas
+PBI técnicas
 ``````
- PBI técnicas
+PBI técnicas
 ```
 ![](media/7i_GPS-S08-Scrum-Roles-p54-0.png)
 
@@ -581,13 +581,22 @@ Estructuración de equipos Scrum
 ## 
 
 ```
- 3 áreas de  características cada una con su pila. Los  equipos de un área se coordinan en cada sprint p.ej. con  Scrum de Scrums
+3 áreas de 
+características cada
+una con su pila. Los 
+equipos de un área
+se coordinan en cada
+sprint p.ej. con 
+Scrum de Scrums
 ``````
- 9 equipos Scrum
+9 equipos Scrum
 ``````
- Lanzamientos  planificados (“salida del tren”)
+Lanzamientos 
+planificados
+(“salida del tren”)
 ``````
- Complejas; participan todos los equipos que  tienen que hacer sprint mapping coordinado
+Complejas; participan todos los equipos que 
+tienen que hacer sprint mapping coordinado
 ```
 ![](media/7i_GPS-S08-Scrum-Roles-p57-0.png)
 

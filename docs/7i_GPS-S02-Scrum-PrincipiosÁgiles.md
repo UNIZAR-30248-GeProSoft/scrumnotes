@@ -227,7 +227,7 @@ Principio 2. Predicción y adaptación
 ## Exploración sistemática: definición gráfica
 
 ```
- Photo CC-BY 2.0 by frankieleon https://www.flickr.com/photos/armydre2008/
+Photo CC-BY 2.0 by frankieleon https://www.flickr.com/photos/armydre2008/
 ```
 -  Al principio, predecir dónde están los barcos del rival a partir de lo que sabes (casi nada) funciona muy mal
     -  Hasta encontrar un “tocado” vamos a ciegas
