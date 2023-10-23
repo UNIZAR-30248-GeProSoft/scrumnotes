@@ -617,7 +617,7 @@ Análisis de la causa raíz y los diagramas causa-efecto
 ## Ejemplo de diagrama de espina de pez
 
 Image under a Creative Commons Attribution-Share Alike 4.0 International, by VARGUX
-![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-ejemplo-de-diagrama-de-espina-de-pez-0.png)
+![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p59-0.png)
 
 ## Análisis de causa raíz con diagramas de causa-efecto
 
@@ -638,7 +638,7 @@ Image under a Creative Commons Attribution-Share Alike 4.0 International, by VAR
 ## Análisis de causa raíz con diagramas de causa-efecto
 
 
-![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-analisis-de-causa-raiz-con-diagramas-de-causa-efecto-0.png)
+![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p61-0.png)
 
 ##  Ejemplo
 
@@ -648,7 +648,7 @@ Ejemplo
 
 
 -  1. Escribe el problema:  No llegamos a cumplir las fechas de lanzamiento comprometidas
-![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-ejemplo-0.png)
+![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p63-0.png)
 
 ## Ejemplo
 
@@ -666,7 +666,7 @@ Ejemplo
 
 
 -  2. Trazar hacia arriba (solo es una convención) para pensar en las consecuencias
-![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-ejemplo-0.png)
+![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p65-0.png)
 
 ## Ejemplo
 
@@ -757,26 +757,26 @@ Ejemplo
 ## Un diagrama de causa-efecto con los fallos del LASCAD
 
 Tomada de (Kornecki, Riddle y Lewis, 2003)
-![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-un-diagrama-de-causa-efecto-con-los-fallos-del-lascad-0.png)
+![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p75-0.png)
 
 ## Causa-efecto del servicio de ambulancias de Londres
 
 
 -  Hay unos cuantos círculos viciosos
-![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-causa-efecto-del-servicio-de-ambulancias-de-londres-0.png)
+![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p76-0.png)
 
 ## Causa-efecto del servicio de ambulancias de Londres
 
 
 -  Hay causas raíz (muchas más que estas dos)
-![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-causa-efecto-del-servicio-de-ambulancias-de-londres-0.png)
+![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p77-0.png)
 
 ## Causa-efecto del servicio de ambulancias de Londres
 
 
 -  Y el principal problema
     -  Que en este diagrama es a su vez causa de otras cosas, no es un problema “puro”
-![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-causa-efecto-del-servicio-de-ambulancias-de-londres-0.png)
+![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p78-0.png)
 
 ## Conclusiones sobre los diagramas de causa-efecto
 

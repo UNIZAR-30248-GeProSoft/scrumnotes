@@ -157,7 +157,7 @@ Sprints
 ## Terminación anormal
 
 
-![](media/7i_GPS-S06-Scrum-Sprints-terminacion-anormal-0.png)
+![](media/7i_GPS-S06-Scrum-Sprints-p16-0.png)
 
 ##  Definición de hecho
 
@@ -318,7 +318,7 @@ Planificación
 
 
 -  El resultado de la planificación del sprint es la pila del sprint
-![](media/7i_GPS-S06-Scrum-Sprints-la-pila-del-sprint-0.png)
+![](media/7i_GPS-S06-Scrum-Sprints-p36-0.png)
 
 ## La pila del sprint
 

@@ -92,7 +92,7 @@
 ## Cynefin framework
 
 © 2014 Snowded ,  under a Creative Commons Attribution-Share Alike 3.0 Unported license
-![](media/7i_GPS-S01-Scrum-Introducción-cynefin-framework-0.png)
+![](media/7i_GPS-S01-Scrum-Introducción-p13-0.png)
 
 ## Dominio Complejo
 
@@ -108,7 +108,7 @@
     -  La exploración hace que afloren los  unknown unknowns
 -  Un ejemplo de este dominio es el desarrollo de nuevos productos  innovadores
 -  Scrum se adapta especialmente bien a este dominio
-![](media/7i_GPS-S01-Scrum-Introducción-dominio-complejo-0.png)
+![](media/7i_GPS-S01-Scrum-Introducción-p14-0.png)
 
 ## Dominio Complicado
 
@@ -122,7 +122,7 @@
 -  Un ejemplo de este dominio es el mantenimiento (mejoras y corrección de errores) de software en producción o el dimensionamiento de un sistema web para dar soporte a distintos números de usuarios
 -  Scrum puede servir, pero puede no ser la mejor opción en este dominio
     -  Suele ser preferible dejar estos problemas en manos de gente experimentada y darles libertad para trabajar
-![](media/7i_GPS-S01-Scrum-Introducción-dominio-complicado-0.png)
+![](media/7i_GPS-S01-Scrum-Introducción-p15-0.png)
 
 ## Dominio Simple
 
@@ -135,7 +135,7 @@
 -  Un ejemplo de esto puede ser configurar y adaptar un software genérico para el n-ésimo cliente y conectarlo con sus sistemas
 -  Scrum puede servir, pero puede no ser la opción más eficiente en este dominio
     -  La solución ideal es que haya un proceso definido, con pasos claros y repetibles
-![](media/7i_GPS-S01-Scrum-Introducción-dominio-simple-0.png)
+![](media/7i_GPS-S01-Scrum-Introducción-p16-0.png)
 
 ## Dominio Caótico
 
@@ -148,7 +148,7 @@
 -  Por ejemplo, estamos en el dominio caótico cuando la última versión que hemos desplegado en producción de nuestro software tiene un fallo crítico y no tenemos un mecanismo sencillo para volver a la versión anterior
 -  Scrum no es la mejor solución
     -  Por ejemplo, no hay que ponerse a priorizar cosas, alguien tiene que hacerse cargo y actuar inmediatamente
-![](media/7i_GPS-S01-Scrum-Introducción-dominio-caotico-0.png)
+![](media/7i_GPS-S01-Scrum-Introducción-p17-0.png)
 
 ## Desorden
 
@@ -156,7 +156,7 @@
 -  Estás en este dominio si no sabes en qué otro dominio estás
 -  No intentas aplicar Scrum a este dominio
     -  Lo que intentas es salir de ahí lo antes posible
-![](media/7i_GPS-S01-Scrum-Introducción-desorden-0.png)
+![](media/7i_GPS-S01-Scrum-Introducción-p18-0.png)
 
 ## ¿Dónde está el desarrollo de software?
 

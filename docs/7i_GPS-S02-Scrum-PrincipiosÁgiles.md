@@ -231,7 +231,7 @@ Principio 2. Predicción y adaptación
     -  Hasta encontrar un “tocado” vamos a ciegas
 -  Pero a partir de un “tocado” exploramos sistemáticamente hasta hundir ese barco
     -  Hemos reducido el espacio de exploración a las casillas contiguas en vertical u horizontal hasta que completamos el “hundido”
-![](media/7i_GPS-S02-Scrum-PrincipiosÁgiles-exploracion-sistematica-definicion-grafica-0.png)
+![](media/7i_GPS-S02-Scrum-PrincipiosÁgiles-p28-0.png)
 
 ## Acepta el cambio de forma sensata
 
@@ -387,7 +387,7 @@ Principio 3. Trabajo en marcha ( work in progress / process )
     -  Se enlentece enormemente
 -  Una regla aproximada es que un sistema (en este caso sería un trabajador) ocupado por encima del 80/85% de su capacidad se empieza a sobrecargar muy rápido
     -  Cuando lo analizamos, veremos un diagrama en forma de “palo de Hockey”
-![](media/7i_GPS-S02-Scrum-PrincipiosÁgiles-focalizate-en-el-trabajo-parado-no-en-los-trabajadores-parados-0.png)
+![](media/7i_GPS-S02-Scrum-PrincipiosÁgiles-p41-0.png)
 
 ## Considera el coste del retraso
 

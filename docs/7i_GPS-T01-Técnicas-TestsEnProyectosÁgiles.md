@@ -66,7 +66,7 @@ Tipos de tests
 ## Una clasificación de tests
 
 
-![](media/7i_GPS-T01-Técnicas-TestsEnProyectosÁgiles-una-clasificacion-de-tests-0.png)
+![](media/7i_GPS-T01-Técnicas-TestsEnProyectosÁgiles-p9-0.png)
 
 ## Una clasificación de tests
 
@@ -268,13 +268,13 @@ Desarrollo dirigido por tests de aceptación
 
 -  Como requisito: “el sistema permitirá acceder a usuarios con nombre y password válidos”
 -  Como test de aceptación, ejemplo con Robot Framework usando el formato tipo “palabras clave”
-![](media/7i_GPS-T01-Técnicas-TestsEnProyectosÁgiles-un-ejemplo-de-test-de-aceptacion-0.png)
+![](media/7i_GPS-T01-Técnicas-TestsEnProyectosÁgiles-p29-0.png)
 
 ## Un ejemplo de test de aceptación
 
 
 -  Como test de aceptación, ejemplo con Robot Framework usando el formato tipo BDD (también llamada sintaxis Gherkin)
-![](media/7i_GPS-T01-Técnicas-TestsEnProyectosÁgiles-un-ejemplo-de-test-de-aceptacion-0.png)
+![](media/7i_GPS-T01-Técnicas-TestsEnProyectosÁgiles-p30-0.png)
 
 ## Un ejemplo de test de aceptación
 

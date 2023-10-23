@@ -166,7 +166,7 @@ Hay un señor que está hablando con el guía del museo del cosmos.  —¿Cuál 
         -  Tratando de ganar precisión acabaríamos perdiendo exactitud (y/o invirtiendo mucho más tiempo)
 -  Limitar los números disponibles también nos fuerza a buscar consensos y no “términos medios)
     -  Ya lo veremos con el póquer de planificación
-![](media/7i_GPS-S05-Scrum-EstimaciónVelocidad-escala-de-estimacion-0.png)
+![](media/7i_GPS-S05-Scrum-EstimaciónVelocidad-p19-0.png)
 
 ##  Velocidad
 
