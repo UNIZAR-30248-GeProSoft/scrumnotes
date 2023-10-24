@@ -670,6 +670,10 @@ Ejemplo
 
 
 -  2. Trazar hacia arriba (solo es una convención) para pensar en las consecuencias
+```
+Henrik Kniberg,The Pragmatic Programmers, LLC.
+```
+
 ![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p65-0.png)
 
 ## Ejemplo
@@ -691,6 +695,10 @@ Ejemplo
 
 
 -  4. Identifica círculos viciosos (bucles)
+```
+Henrik Kniberg,The Pragmatic Programmers, LLC.
+```
+
 ![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p67-0.png)
 
 ## Ejemplo
@@ -715,6 +723,10 @@ Ejemplo
 
 ## 
 
+
+```
+Henrik Kniberg,The Pragmatic Programmers, LLC.
+```
 
 ![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p70-0.png)
 
