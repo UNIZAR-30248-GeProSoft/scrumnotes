@@ -93,7 +93,7 @@
 
 
 ```
-under a Creative Commons Attribution-Share Alike 3.0 Unported license
+© 2014 Snowded, under a Creative Commons Attribution-Share Alike 3.0 Unported license
 ```
 
 ![](media/7i_GPS-S01-Scrum-Introducción-p13-0.png)

@@ -652,6 +652,10 @@ Ejemplo
 
 
 -  1. Escribe el problema:  No llegamos a cumplir las fechas de lanzamiento comprometidas
+```
+Illustration: (c) 2011, Henrik Kniberg,The Pragmatic Programmers, LLC.
+```
+
 ![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p63-0.png)
 
 ## Ejemplo
@@ -671,7 +675,7 @@ Ejemplo
 
 -  2. Trazar hacia arriba (solo es una convención) para pensar en las consecuencias
 ```
-Henrik Kniberg,The Pragmatic Programmers, LLC.
+Illustration: (c) 2011, Henrik Kniberg,The Pragmatic Programmers, LLC.
 ```
 
 ![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p65-0.png)
@@ -696,7 +700,7 @@ Henrik Kniberg,The Pragmatic Programmers, LLC.
 
 -  4. Identifica círculos viciosos (bucles)
 ```
-Henrik Kniberg,The Pragmatic Programmers, LLC.
+Illustration: (c) 2011, Henrik Kniberg,The Pragmatic Programmers, LLC.
 ```
 
 ![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p67-0.png)
@@ -725,7 +729,7 @@ Henrik Kniberg,The Pragmatic Programmers, LLC.
 
 
 ```
-Henrik Kniberg,The Pragmatic Programmers, LLC.
+Illustration: (c) 2011, Henrik Kniberg,The Pragmatic Programmers, LLC.
 ```
 
 ![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p70-0.png)
