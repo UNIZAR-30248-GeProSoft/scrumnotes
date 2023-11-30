@@ -1,10 +1,10 @@
-# 7i_GPS-S08-Scrum-Roles
+# 7i_GPS-S08-Scrum-Roles y Estructuración de Equipos
 
 
 
-##  *Scrum – Roles en detalle y estructuración de equipos* **Gestión de Proyectos Software**
+##  *Scrum – Roles y estructuración de equipos* **Gestión de Proyectos Software**
 
-*Scrum – Roles en detalle y estructuración de equipos* **Gestión de Proyectos Software**
+*Scrum – Roles y estructuración de equipos* **Gestión de Proyectos Software**
 
 ## <u>Contenidos</u>
 
@@ -25,7 +25,7 @@ El dueño del producto
 ## <u>El dueño del producto</u>
 
 
--  Entiende las necesidades y prioridades tanto de la organización que quiere que se desarrolle el software, como de los clientes y los usuarios
+-  Entiende las necesidades y prioridades tanto de la organización cliente, que quiere que se desarrolle el software, como de usuarios/as
     -  Se asegura de que se desarrolle la solución adecuada
 -  Comunica al equipo de desarrollo qué construir, y en qué orden
     -  Y se asegura de que hay criterios de aceptación de cada característica, y de que estos se verifican
@@ -57,7 +57,7 @@ El dueño del producto
 ## 
 
 
-![](media/7i_GPS-S08-Scrum-Roles-p7-0.png)
+![](media/7i_GPS-S08-Scrum-Roles y Estructuración de Equipos-p7-0.png)
 
 ## <u>¿Quién debería ser dueño del producto?</u>
 
@@ -73,16 +73,17 @@ El dueño del producto
     -  Alguien con buenos conocimientos técnicos (la pila va a tener entradas muy técnicas)
 -  El dueño del producto puede ser miembro del equipo de desarrollo
 -  El dueño del producto no debería ser a la vez el ScrumMaster
-    -  Son dos papeles ligeramente “enfrentados”
+    -  Son dos papeles ligeramente enfrentados
 
 ## <u>¿Quién debería ser dueño del producto?</u>
 
 
--  Una misma persona puede ser dueña de varios productos (pero no muchos)
--  El dueño del producto puede nombrar a alguien como “proxy” para que actúe por él en ciertas situaciones
-    -  Siempre que le confiera “plenos poderes” en esas situaciones, puede ser útil
--  Un producto muy grande (centenares de equipos simultáneos) puede tener un dueño del producto “jefe” pero necesitará una jerarquía de dueños de producto que le apoyen
-    -  Organizados por “líneas de producto”, por “características” o como sea
+-  Una misma persona puede ser dueña de varios productos
+    -  Pero no de muchos
+-  El dueño del producto puede nombrar a alguien como representante ( proxy ) para que actúe en su lugar en ciertas situaciones
+    -  Siempre que le confiera plenos poderes en esas situaciones, puede ser útil
+-  Un producto muy grande (muchos equipos simultáneos) puede tener un dueño del producto “jefe” pero necesitará una jerarquía de dueños de producto que le apoyen
+    -  Organizados por líneas de producto, por características funcionales o como sea
 
 ##  El ScrumMaster
 
@@ -92,8 +93,8 @@ El ScrumMaster
 
 
 -  Se encarga de ayudar a que todo el mundo entienda los valores, principios y prácticas de Scrum
--  Actúa como “entrenador” para el equipo de desarrollo y para el dueño del producto
--  Ayuda al equipo y a su organización o empresa a desarrollar su propia aproximación a Scrum
+-  Actúa como entrenador para el equipo de desarrollo y para el dueño del producto
+-  Ayuda al equipo, y a su organización o empresa, a desarrollar su propia aproximación a Scrum
 
 ## <u>Responsabilidades</u>
 
@@ -107,7 +108,8 @@ El ScrumMaster
 -  Escudo frente a interferencias externas
     -  P. ej., de los directivos de la empresa o de temas que surgen desde otros equipos
 -  Eliminador de obstáculos
-    -  De todo lo que reduzca la productividad del equipo y que los miembros del equipo no puedan solucionar solos (p. ej. la carencia de ciertos recursos)
+    -  De todo lo que reduzca la productividad del equipo y que los miembros del equipo no puedan solucionar    
+        -  P. ej., la carencia de ciertos recursos
 -  Agente del cambio
     -  Hace lo posible para que el equipo, y su organización/empresa, entiendan la necesidad de los cambios y las ventajas de corto y largo plazo por usar Scrum
 
@@ -137,23 +139,18 @@ El ScrumMaster
         -  El ScrumMaster muchas veces debe actuar de contrapeso frente al dueño del producto
     -  Se puede ser ScrumMaster de más de un equipo
 
-## ¿Qué hacer si...
-
-
--  ...la dirección requiere que uno de los directores de proyecto disponibles tome el papel de ScrumMaster?
-
 ## <u>Actividades de un ScrumMaster</u>
 
 
 -  Como apoyo al dueño de producto, asegurarse de que:
     -  La pila del producto refleja las últimas ideas del dueño de producto
     -  La pila del producto captura las necesidades de todos los involucrados    
-        -  P.ej. incluye cosas que se comentaron durante las revisiones
+        -  P.ej., incluye cosas que se comentaron durante las revisiones
     -  La pila del producto tiene suficientes entradas y suficientemente detalladas, todo el tiempo
     -  El dueño de producto entiende el problema de la deuda técnica y lo considera importante
     -  La pila del producto es bien visible siempre y para todos los participantes    
         -  Especialmente importante si se usa alguna herramienta electrónica
-    -  Los diagramas de progreso (p.ej. de burndown y de burnup) se crean, se actualizan y son visibles para todo el mundo
+    -  Los diagramas de progreso (burndown y burnup) se crean, se actualizan y son visibles para todo el mundo
     -  El plan de lanzamientos actual sigue siendo viable
 
 ## <u>Actividades de un ScrumMaster</u>
@@ -168,8 +165,8 @@ El ScrumMaster
     -  El equipo tiene la combinación de habilidades necesarias para llevar a cabo el trabajo
     -  No hay tareas que nadie quiere hacer y que por tanto se posponen hasta que no queda otro remedio
     -  La deuda técnica no se acumula hasta el punto de hacer complicados cambios que deberían ser sencillos
-    -  El equipo se responsabiliza de todos los aspecto del trabajo y nadie se considera a si mismo demasiado “importante” para hacer algunas de esas cosas
-    -  Se llevan a cabo buenas prácticas de ingeniería: pruebas automatizadas, integración continua, revisiones de código (incluso  pair programming ) etc.
+    -  El equipo se responsabiliza de todos los aspecto del trabajo y nadie se considera a si mismo demasiado importante para hacer algunas de esas cosas
+    -  Se llevan a cabo buenas prácticas de ingeniería
 
 ##  El equipo de desarrollo
 
@@ -178,8 +175,9 @@ El equipo de desarrollo
 ## <u>El equipo de desarrollo</u>
 
 
--  Grupo  multidisciplinar
-    -  El  grupo  debe tener todas las habilidades necesarias para el desarrollo de software: arquitectura, programación, tests, gestión de base de datos, diseño de GUI...
+-  Debe ser multidisciplinar
+    -  El equipo en su conjunto debe tener todas las habilidades necesarias para el desarrollo del producto    
+        -  Arquitectura, programación, tests, gestión de base de datos, diseño de GUI...
 -  Tener equipos especializados suele ser un obstáculo para llevar a cabo Scrum de la mejor manera
 
 ## <u>Responsabilidades</u>
@@ -213,13 +211,17 @@ El equipo de desarrollo
         -  El equipo tiene éxito o no lo tiene
     -  Nadie dice “ese no es mi trabajo” si hay un trabajo que hacer y tiene las habilidades necesarias para hacerlo
     -  Si alguien ve un problema con algo, aunque sea en algo que no es su especialidad, lo mencionará para que se pueda discutir
+
+## <u>Habilidades / Requisitos</u>
+
+
 -  Comunicación de banda ancha
     -  La información pierde valor con el tiempo, por eso acelerar el ritmo al que se comparte es importante
     -  La comunicación cara a cara es lo más eficiente, pero la tecnología puede ayudar
     -  La ceremonia es un obstáculo    
         -  Tres niveles de indirección para hablar con el cliente, tener que crear documentos sin valor para comunicar algo o tener que conseguir una firma son obstáculos
     -  Un equipo de N miembros tiene N(N-1)/2 canales de comunicación entre individuos    
-        -  Si es grande, la comunicación es más complicada
+        -  Cuanto más grande, la comunicación es más complicada
 
 ## <u>Habilidades / Requisitos</u>
 
@@ -240,9 +242,10 @@ El equipo de desarrollo
 -  Trabaja a un ritmo sostenible
     -  No se trabaja con más intensidad a final del proyecto que al principio
 -  Vida larga
-    -  Equipo , no grupo
-    -  Mantener al equipo junto tanto tiempo como sea económicamente sensato (hay datos que confirman la idea de que los equipos que llevan más tiempo juntos son más eficientes y productivos)
-    -  Crear un equipo que funciona tiene un coste, pero es una inversión
+    -  Esta es la principal diferencia entre un equipo y un grupo
+    -  Mantener al equipo junto tanto tiempo como sea económicamente sensato    
+        -  De nuevo hay datos que confirman la idea intuitiva de que los equipos que llevan más tiempo juntos son más eficientes y productivos
+    -  Crear un equipo que funciona tiene un coste, pero hay que verlo como una inversión
 
 ##  Managers
 
@@ -259,7 +262,11 @@ Managers
         -  Jefe de departamento, líder de proyecto, encargado de planta, gerente de división...
     -  Un tercer nivel (el más alto), donde están los/as responsables de las decisiones, planes y objetivos que afectan a toda la organización    
         -  Vicepresidente ejecutivo, presidente, CEO (chief executive officer)...
--  En estas transparencias, cuando hablemos de manager nos referiremos esencialmente al primer nivel, o como mucho a alguno de los primeros escalones del segundo
+
+## Managers
+
+
+-  En este tema transparencias, cuando hablemos de manager nos referiremos esencialmente al primer nivel, o como mucho a alguno de los primeros escalones del segundo
     -  Que son los más cercanos a la gestión de los proyectos
 -  Cada empresas y organización que use Scrum tendrá que encontrar como compatibilizarlo con su estructura organizativa y qué papeles pueden jugar sus managers
 
@@ -269,20 +276,19 @@ Managers
 -  La primera experiencia profesional que se tiene con un/a manager suele ser en “el otro lado”
     -  Y salvo que se ascienda a la cima de una organización (o que seas fundador/a), lo normal es que en el resto de tu carrera profesional siempre vayas a tener que rendir cuentas a uno o más managers
 -  Conocer cuál es el trabajo de un manager te puede ayudar a determinar si el/la tuyo/a es bueno o no en su trabajo
-    -  Un mal “jefe” es uno de los motivos más comunes para cambiar de empleo
+    -  Un mal jefe es uno de los motivos más comunes para cambiar de empleo
 -  Pasar a ser manager es una de las posibilidades para ascender en una organización
     -  En muchas organizaciones, es la única opción real de ascender una vez llevas 6-8 años en ella
 
 ## Managers
 
 
--  El trabajo de un/a manager se puede resumir en una frase
-    -  Consiste en obtener los mejores resultados posibles de un grupo de gente que trabaja junta
+-  El trabajo de un/a manager c onsiste en obtener los mejores resultados posibles de un grupo de gente que trabaja junta
 -  Esto puede incluir, entre otras cosas:
     -  Crear un equipo que trabaje bien    
-        -  Puede incluir tomar decisiones sobre a quién despedir
+        -  Incluyendo tomar decisiones sobre a quién contratar y/o despedir
     -  Apoyar a cada persona de ese equipo a alcanzar sus objetivos profesionales    
-        -  Puede incluir tomar decisiones sobre a quién promocionar
+        -  Incluyendo tomar decisiones sobre a quién promocionar
     -  Crear procesos que faciliten que el trabajo se haga eficientemente y sin obstáculos
 
 ## Managers
@@ -291,10 +297,11 @@ Managers
 -  Para hacer su trabajo, se espera que un/a manager lleve a cabo distintas tareas:
     -  Reuniones uno a uno    
         -  Permiten crear una conexión humana entre manager y managed
-        -  Permiten un contexto privado para tratar cualquier tema profesional que sea ncesario
-        -  No tiene mucho sentido usarlas para reportar el estado de un proyecto. Para esto, es mejor un e-mail o un chat
+        -  Son un contexto privado en el que poder tratar cualquier tema profesional que sea necesario
+        -  No tiene sentido usarlas para reportar el estado de un proyecto        
+            -  Para esto es mejor un e-mail
     -  Proporcionar feedback y guía    
-        -  Feedback sobre tu desempeño individual
+        -  Feedback sobre el desempeño individual
         -  El feedback es más útil cuanto más pronto se recibe
         -  Los halagos deberían ser públicos (al menos un poco públicos), y las críticas deberían ser privadas
 
@@ -307,21 +314,22 @@ Managers
     -  Formación y cambios en la composición de equipos    
         -  Lógicamente deberían consultar a los miembros de un equipo antes de incluir o retirar a alguien, pero la decisión es de la gerencia
 -  Delegación de ciertas tareas de gestión a equipos Scrum
-    -  Entre comunicarles una decisión ya tomada y delegar en ellos toda la responsabilidad hay muchos grados intermedios (convencerles, consultarles, acordarlo con ellos...)
+    -  Entre comunicar una decisión ya tomada y delegar toda la responsabilidad hay muchos grados intermedios    
+        -  Convencer, consultar previamente, acordar...
     -  Esto aumenta su autonomía y su confianza
 
 ## Responsabilidades de los/as managers en Scrum
 
 
 -  Apoyar a los equipos
-    -  No dirigirles, sino apoyarles
+    -  No dirigir, sino apoyar
     -  Motivar y poner objetivos globales elevados
-    -  Facilitar el aprendizaje continuo de los miembros de los equipos    
-        -  P.ej. darles tiempo para ir a cursos y conferencias
+    -  Facilitar el aprendizaje continuo de los integrantes de los equipos    
+        -  P.ej., dando tiempo para ir a cursos y conferencias
         -  Ese  feedback  sobre el desempeño individual del que hablábamos antes
 -  Proporcionar liderazgo en su área
-    -  P.ej. la directora del área de recursos gráficos apoyará y coordinará a los diseñadores gráficos en los distintos equipos Scrum
-    -  También establecer estándares e iniciativas para mejorar el trabajo en sus áreas    
+    -  P.ej., la directora del área de recursos gráficos apoyará y coordinará a los diseñadores gráficos en los distintos equipos Scrum
+    -  Establecer estándares e iniciativas para mejorar el trabajo en sus áreas    
         -  P.ej., la directora del área de QA puede establecer el uso de ciertas herramientas de automatización de tests en la organización
 
 ## Responsabilidades de los/as managers en Scrum
@@ -355,26 +363,30 @@ Staff engineers
 ## Staff engineers
 
 
--  Cada vez más organizaciones proporcionan una vía de carrera profesional paralela a la del management
-    -  Staff engineer track, track tećnico o individual contributor track
+-  Cada vez más organizaciones proporcionan una vía de carrera profesional paralela a la de la gestión
+    -  Staff engineer track ,  track  tećnico o  individual contributor track
 -  Los nombres y número de los niveles del escalafón profesional que se pueden tener en una organización varían tanto que hay una web para compararlos
     - 
-    -  Por ejemplo, la cima de la carrera como Software Engineer en Amazon es “Distinguished Engineer”, mientras que en Red Hat es “Fellow”, y en Microsoft es “Technical Fellow”
-    -  El título que te dan tienen su importancia    
-        -  Ves como progresas en tu carrera, otros ven como progresas en tu carrera, y cualquiera que no te conozca puede evaluar rápidamente, sin mucho detalle, tu nivel de conocimientos y experiencia
--  En general podemos decir que “Senior Engineer”, o algo así, suele ser la cima de la carrera técnica de responsabilidad individual
-    -  A partir de ahí, si se quiere ascender en la organización, o se pasa a la vía de Manager o se pasa a la vía de Staff Engineer (si existe esta última)
+    -  Por ejemplo, la cima de la carrera como  Software Engineer  en Amazon es  Distinguished Engineer , mientras que en Red Hat es  Fellow , y en Microsoft es  Technical Fellow
+    -  El título que tengas tiene su importancia    
+        -  Ves como progresas en tu carrera, otros ven como progresas en tu carrera, y cualquiera que no te conozca puede evaluar rápidamente, aunque sin mucho detalle, tu nivel de conocimientos y experiencia
+-  En general podemos decir que  Senior Engineer , o algo así, suele ser la cima de la carrera técnica de responsabilidad individual
+    -  A partir de ahí, si se quiere ascender en la organización, o se pasa a la vía de  Manager  o se pasa a la vía de  Staff Engineer  (si existe esta última)
 
 ## Staff engineers
 
 
--  De un staff engineer, se espera que:
-    -  Pueda tomar decisiones técnicas que afectan a varios grupos, e incluso que sean las óptimas para la empresa en su conjunto
-    -  Pueda tomar decisiones a medio y largo plazo    
+-  De un staff engineer, se espera que pueda tomar:
+    -  Decisiones técnicas que afectan a varios grupos, o incluso a toda la empresa
+    -  Decisiones a medio y largo plazo    
         -  P.ej., en qué tecnologías invertir, qué plataformas estandarizar dentro de la empresa etc.
--  En una empresa pequeña, puede haber un CTO ( chief technology officer ), que es un manager, y que asume este papel
-    -  Porque puede estar pendiente de todo lo que se hace en esa empresa
-    -  Hay un cierto riesgo de que tome decisiones “de gestión” contrarias al juicio técnico de los ingenieros
+-  En una empresa pequeña, puede haber un CTO ( chief technology officer ), que es un manager, y que asume el papel de staff engineer
+    -  Al ser pequeña, un CTO puede estar pendiente de todo lo que se hace en esa empresa
+    -  Hay un cierto riesgo de que tome decisiones de gestión contrarias al juicio técnico de los ingenieros
+
+## Staff engineers
+
+
 -  En una empresa grande la necesidad de separar la gestión de la “gran ingeniería” es más importante
     -  Cada decisión técnica controvertida que involucre a varios equipos no puede acabar en la mesa del CTO
     -  Otra forma de ver esto, es que es necesario separar el liderazgo sobre personas (manager) del liderazgo técnico (staff engineer)
@@ -384,17 +396,22 @@ Staff engineers
 
 
 -  Liderazgo
-    -  Tu seniority es equivalente a la de algún/a manager    
+    -  Tu nivel de antigüedad es equivalente a la de algún/a manager    
         -  Y conforme avanzas, será equivalente a la de un/a manager de nivel superior
     -  Como staff engieneer se espera que tu trabajo tenga más impacto en la organización    
-        -  Eso requiere involucrar a más gente
+        -  Eso requiere liderar a gente
 -  No es el mismo liderazgo que ejercen los managers
     -  No tienes a gente directamente a tu cargo
     -  No evalúas sus prestaciones
     -  No apruebas peticiones de gasto o de vacaciones
     -  No despides ni promocionas a nadie
+
+## El trabajo de staff engineer
+
+
 -  Es un liderazgo técnico
-    -  Revisas artefactos técnicos (diseños, código...), considerando si son buenos, si se alinean con objetivos de la organizacion y si encajan con lo que hacen otros equipos
+    -  Requiere conocimientos técnicos y experiencia
+    -  Revisas artefactos técnicos (diseños, código...), considerando si son buenos, si se alinean con objetivos de la organización y si encajan con lo que hacen otros equipos
     -  Puedes dar formación y mentorizaje técnicos
     -  Puedes establecer dirección técnica    
         -  P.ej., seleccionar nuevas tecnologías de interés para la organización
@@ -403,25 +420,26 @@ Staff engineers
 ## El trabajo de staff engineer
 
 
--  Tu rol es técnico
--  Requiere conocimientos técnicos y experiencia
 -  Requiere tener altos estándares sobre qué es buena ingeniería y la capacidad de aplicarlos
     -  Tus revisiones de código y de diseños deben ser instructivas y ayudar a que haya un mejor código o arquitectura
--  Tienes que entender los compromisos que hay que evaluar al tomar una decisión tećnica
+-  Tienes que entender los compromisos que hay que evaluar al tomar una decisión técnica
 -  Normalmente no programas mucho
     -  Pero sí que es común que trabajes en un problema ambiguo o complicado solo hasta que este problema se vuelva tratable y ya puede ser abordado por ingenieros menos experimentados
-    -  Aunque puede ser que mirar el código pueda ser la forma más eficiente de resolver un problema, también es posible que lo sea mantener una documentación buena y actualizada o hacer un análisis cuantitativo de datos existentes que ayuden a tomar las mejores decisiones
+    -  Sí que puede ser que mirar el código pueda ser la forma más eficiente de resolver un problema    
+        -  También es posible que lo sea mantener una documentación buena y actualizada o hacer un análisis cuantitativo de datos existentes que ayuden a tomar las mejores decisiones
 
 ## El trabajo de staff engineer
 
 
 -  Tu objetivo es ser autónomo
-    -  No requerir que un/a manager te diga qué hacer, comó abordar un problema o, cuando eres más senior, qué problemas son los más importantes
-    -  Tu manager te tiene que dar información y contexto, pero tú deberías decirle qué es importante y qué no
-    -  Parte de trabajo es crear tu propia “pila de producto” de trabajo de alto impacto y valioso
--  Tienes que hacer que tu organización tenga una buena dirección técnica
-    -  Esto requiere comprender los productos y servicios que tu organización ofrece, y los elementos técnicos que los hacen posibles (arquitectura, sistemas, herramientas y frameworks...)
-    -  No es solo asegurarse de que las decisiones necesarias respecto a esto se toman bien (dentro de los equipos, entre varios equipos, a nivel organización) pero también que se escriben para que todo el mund otenga una referencia y esté claro lo que se ha decidido
+    -  Seguirás teniendo un/a manager    
+        -  Pero no puedes esperar que te diga qué hacer, cómo abordar un problema o qué problemas son los más importantes
+        -  Tu manager te tiene que dar información y contexto, pero tú deberías decir qué es importante y qué no
+    -  Parte de trabajo es crear tu propia “pila de producto” (es un símil, no hablamos de la de Scrum) de trabajo de alto impacto y valioso
+-  Tienes que asegurarte de que en tu organización hay buenas direcciones técnicas
+    -  Que las decisiones técnicas se toma bien    
+        -  Dentro de los equipos, entre varios equipos y a nivel organización
+    -  Y que las decisiones se escriben para que todo el mundo tenga una referencia y esté claro lo que se ha decidido
 -  Tienes que comunicar bien
     -  Casi todo lo que haces como staff engineer requiere transmitir información a otras personas    
         -  Cuanto mejor hagas eso, más eficaz serás
@@ -440,7 +458,7 @@ Directores de proyecto
 ## 
 
 
-![](media/7i_GPS-S08-Scrum-Roles-p42-0.svm)
+![](media/7i_GPS-S08-Scrum-Roles y Estructuración de Equipos-p45-0.png)
 
 ## Directores de proyecto
 
@@ -449,7 +467,7 @@ Directores de proyecto
 -  Si hay muchos (decenas, cientos) de equipos esto es complicado
     -  Se puede tener un director de proyecto cuya principal responsabilidad sea facilitar esta coordinación
     -  Pero primero hay que ver si esta coordinación es tan complicada    
-        -  Si la mayor parte de estos equipos forman clusters de comunicación más intensa, es posible que puedan organizarse sin ayuda externa (con aproximaciones tipo Scrum de Scrums)
+        -  Si la mayor parte de estos equipos forman clusters de comunicación más intensa, es posible que puedan organizarse sin ayuda externa
     -  Tener un responsable externo a los equipos Scrum no es ideal    
         -  Los equipos adquieren la sensación de que la coordinación no es su problema
 -  También se puede tener un director de proyecto para coordinar un proyecto grande en el que no todos los equipos son Scrum
@@ -459,38 +477,25 @@ Directores de proyecto
 
 Resolución de problemas en equipo
 
-## Tipos de problemas
+## Resolución de problemas en equipo
 
 
--  El tipo de problema a resolver afecta a las prestaciones de un equipo para resolverlo
-    -  ¿Unitario o divisible?    
-        -  Es unitario si todo el equipo tiene que trabajar en lo mismo al mismo tiempo, y divisible en el caso contrario
-    -  ¿Es de optimización?    
-        -  ¿Hay que maximizar/minimizar cierta cantidad? ¿O quizás hay que maximizar la calidad?
-        -  Si hay una única solución correcta, podemos verlo como un problema de optimización también (hay que encontrar la solución que “maximiza” la corrección)
-    -  ¿Hay interdependencia?    
-        -  ¿Cómo se combinan los resultados individuales para formar un resultado completo?
-
-## Tipos de problemas
-
-
--  Si el problema es de tipo Eureka (hay que dar con una “idea feliz” para resolverlo)
-    -  Si un grupo contiene k individuos y Pi es la probabilidad de que un individuo encuentre la solución, la probabilidad de que el grupo encuentre la solución es  k    
-        -  Si la solución involucra s subproblemas, la probabilidad del grupo de tener éxito es [1 - (1-Pi 1/s ) k ] s
-    -  En ambos casos, la probabilidad de un grupo de resolver el problema es mayor que la de un individuo y aumenta con el número de individuos
--  Para problemas de tipo  brainstorm  (producir el mayor número de ideas creativas que se pueda), los individuos superan consistentemente a los grupos
+-  El tipo de problema a resolver afecta a la capacidad de un equipo para resolverlo
+-  Si el problema es de tipo Eureka (hay que dar con una “idea feliz”)
+    -  Si un grupo contiene k individuos y Pi es la probabilidad de que un individuo encuentre la solución, la probabilidad de que el grupo encuentre la solución es      1 - (1 - Pi) k
+    -  La probabilidad de un grupo de resolver el problema es pues mayor que la de un individuo y aumenta con el número de individuos
+-  Sin embargo, para problemas de tipo  brainstorm  (producir el mayor número de ideas creativas que se pueda), los individuos superan consistentemente a los grupos
     -  Midiendo la cantidad y calidad de ideas generadas por persona
     -  A pesar de que la  , la creencia de que el  brainstorming  funciona mejor si se hace en grupo sigue estando muy extendida
 
-## Tipos de problemas
+## Resolución de problemas en equipo
 
 
 -  Cuantas menos personas en un grupo poseen cierta información, menos probable es que esa información se use durante las discusiones, porque es menos probable que alguien la ponga sobre lo mesa
     -  Si hay información necesaria para resolver una tarea y esta está muy distribuida (cada participante tiene solo alguna parte de la misma) es más difícil que esta información llegue a utilizarse
-    -  Esto justifica los esfuerzos para que toda la información posible esté disponible para todo el mundo    
-        -  Recordad la metáfora de “radiadores o neveras” que mencionábamos en el tema sobre los sprints al hablar de tableros y diagramas
+    -  Esto justifica el énfasis que pone Scrum en que toda la información posible esté disponible para todo el mundo todo el tiempo
 
-## Tipos de problemas
+## Resolución de problemas en equipo
 
 
 -  Conforme el tamaño de los grupos crece, el esfuerzo individual de sus integrantes disminuye
@@ -498,8 +503,9 @@ Resolución de problemas en equipo
     -  Esto se ha observado incluso en tareas que no exigen ninguna interacción entre integrantes del grupo    
         -  Pensad en cuando se aplaude al final de un evento; si hay poca gente, tendemos a esforzarnos más en hacer ruido que si hay mucha
     -  También se ha observado en trabajos realizados por estudiantes    
-        -  Comparando el rendimiento individual con el rendimiento trabajando en grupo, en general se obtienen mejoras notas trabajando solo, y mejores notas en grupos más pequeños que en grupos más grandes
-    -  Esto justifica el no querer equipos demasiado grandes
+        -  Comparando el rendimiento individual con el rendimiento trabajando en grupo, en general se obtienen mejoras notas trabajando solo        
+            -  Y mejores notas en grupos más pequeños que en grupos más grandes
+    -  Esto justifica que en Scrum prefiramos no tener equipos grandes
 
 ##  Estructuración de equipos Scrum
 
@@ -514,66 +520,53 @@ Estructuración de equipos Scrum
 ## <u>¿Equipos de características o de componentes?</u>
 
 
--  Un equipo de características es un equipo multidisciplinar y multicomponente que toma características (historia de usuario / requisitos funcionales) de la pila y las completa
--  Un equipo de componentes se focaliza en desarrollar un componente o subsistema que se usa para implementar partes de características
--  Scrum favorece tener equipos de características, pero muchas organizaciones prefieren los equipos de componentes
+-  Equipo de características
+    -  Toma características (historia de usuario / requisitos funcionales) de la pila y las completa
+-  Equipo de componentes
+    -  Se focaliza en desarrollar un componente o subsistema que se usa para implementar partes de características
+
+## <u>Equipos de componentes</u>
+
+
+-  Scrum favorece los equipos de características, pero muchas organizaciones prefieren los de componentes
     -  Que haya equipos responsables de algunas partes del código y que si otros necesitan cambios se los pidan
-    -  Generalmente para componentes que se usarán en distintos productos/proyectos
+
+## <u>Equipos de componentes</u>
+
+
 -  Los equipos de componentes pueden funcionar si hay un solo producto en desarrollo
     -  Sería una forma de distribuir el trabajo, aunque quizás no la óptima
--  Cogemos entradas de la pila del producto, las dividimos en sus piezas de nivel de componente, y cada pieza va a la pila del equipo de componente correspondiente
+-  Cogemos entradas de la pila del producto, las dividimos en sus piezas de nivel de componente, y cada pieza va a la pila del equipo del componente correspondiente
     -  La división la hacen entre los equipos involucrados, o alguien con un rol de  chief architect
 -  Después de que cada equipo hace su pieza, se integran para completar las características de la pila del producto
 
 ## 
 
 
-```
-PBI funcionales
-```
+![](media/7i_GPS-S08-Scrum-Roles y Estructuración de Equipos-p56-0.png)
 
-```
-PBI técnicas
-```
-
-```
-Por ejemplo: Front-end API del back-end Base de datos
-```
-
-![](media/7i_GPS-S08-Scrum-Roles-p52-0.png)
-
-## <u>¿Equipos de características o de componentes?</u>
+## <u>Equipos de componentes</u>
 
 
--  Si hay varios productos que usan los mismos componentes, seguramente por eso los creamos, alguno de los equipos de componentes posiblemente acabará siendo un cuello de botella para el desarrollo de alguno/s de estos productos
-    -  ¿Por qué no hemos terminado el producto X? Porque falta algo del componente 3, y el equipo de ese componente está implementando peticiones para el producto Y y el producto Z porque el dueño de producto del equipo de ese componente así lo ha decidido
--  Incrementamos las posibilidades de no terminar de implementar cada característica
-    -  Porque con que falle uno de los equipos de los componentes que necesita esta característica, esta no se terminará en el sprint
+-  Si hay varios productos que usan los mismos componentes, alguno de los equipos de componentes posiblemente acabará siendo un cuello de botella para el desarrollo de algunos de estos productos
+    -  ¿Por qué no hemos terminado el producto X? 
+    -  Porque falta algo del componente 3, y el equipo de ese componente está implementando peticiones para el producto Y y el producto Z
+-  Incrementamos las posibilidades de no terminar de implementar cada característica en su sprint
+    -  Porque con que falle uno de los equipos de los componentes que necesita esta característica, esta no se terminará
+
+## <u>Equipos de características</u>
+
+
 -  La alternativa es tener equipos de características, que pueden modificar los componentes que necesiten
--  Compartir la responsabilidad del mantenimiento de componentes reusables entre los equipos de características es más complejo que con un equipo dedicado al componente, pero es factible y debería ser el objetivo a largo plazo
-    -  Aunque normalmente se acaba por llegar a algún modelo que mezcle equipos de características y de componentes (no es lo ideal)
-    -  Esta mezcla (ver siguiente transparencia) puede ser un punto intermedio hacia tener equipos de características “puros”
+-  Compartir la responsabilidad del mantenimiento de componentes reusables entre los equipos de características es más complejo, pero es factible y debería ser el objetivo a largo plazo
+-  Aunque normalmente se acaba por llegar a alguna organización que combina equipos de características y de componentes
+    -  Por ejemplo, haciendo que algunas personas formen parte de un equipo de características y de un equipo de componentes (ver siguiente transparencia)
+    -  El objetivo final debería ser tener equipos de características “puros”
 
 ## 
 
 
-```
-PBI funcionales
-```
-
-```
-PBI técnicas
-```
-
-```
-PBI técnicas
-```
-
-```
-PBI técnicas
-```
-
-![](media/7i_GPS-S08-Scrum-Roles-p54-0.png)
+![](media/7i_GPS-S08-Scrum-Roles y Estructuración de Equipos-p59-0.png)
 
 ## <u>Coordinación de múltiples equipos: Scrum de Scrums</u>
 
@@ -595,55 +588,32 @@ PBI técnicas
 ## 
 
 
-```
-3 áreas de 
-características cada
-una con su pila. Los 
-equipos de un área
-se coordinan en cada
-sprint p.ej. con 
-Scrum de Scrums
-```
-
-```
-9 equipos Scrum
-```
-
-```
-Lanzamientos 
-planificados
-(“salida del tren”)
-```
-
-```
-Complejas; participan todos los equipos que 
-tienen que hacer sprint mapping coordinado
-```
-
-![](media/7i_GPS-S08-Scrum-Roles-p57-0.png)
+![](media/7i_GPS-S08-Scrum-Roles y Estructuración de Equipos-p62-0.png)
 
 ## Coordinación de múltiples equipos: Tren de lanzamientos
 
 
--  Hay fechas fijas para los frecuentes lanzamientos (o incrementos potencialmente entregables)
+-  Hay fechas fijas para los frecuentes lanzamientos
     -  Fechas fijas (y calidad fija) => alcance variable
--  Los equipos tienen sprints de la misma duración
-    -  Empiezan y terminan en las mismas fechas. Esto permite sincronizar a todos los equipos del producto
+-  Los equipos tienen sprints de igual duración que empiezan y terminan en las mismas fechas
+    -  Esto facilita sincronizar a todos los equipos del producto
 -  Los equipos se suelen agrupar en áreas de características
-    -  Por ejemplo para un reproductor de música local y en streaming podríamos tener tres grandes áreas: “gestión de las colecciones de música”, “reproducción de música” y “analítica de datos y recomendaciones”
+    -  Por ejemplo para un reproductor de música en local y en streaming podríamos tener:    
+        -  Gestión de las colecciones de música
+        -  Reproducción de música
+        -  Analítica de datos y recomendaciones
     -  Cada área tiene su pila
-    -  Si hay varios equipos trabajando en un área de características, cada uno trabajará normalmente con una “vista” de esta pila
+    -  Si hay varios equipos trabajando en un área de características, cada uno trabajará normalmente con una vista de esta pila
 -  Además de estas pilas de las áreas de características (con historias implementables) suele haber una pila de portafolio (con épicas) y una de producto (con características más grandes)
 
 ## Coordinación de múltiples equipos: Tren de lanzamientos
 
 
--  Hay hitos objetivos, intermedios y globales, establecidos
 -  Se hace integración continua tanto a nivel global como al de característica y/o componente
--  Los incrementos potencialmente entregables están disponibles con regularidad (p.ej. cada 60 días) para su revisión (interna, por el cliente, QA global)
+-  Los incrementos potencialmente entregables están disponibles con regularidad (p.ej., cada 30 días) para su revisión
 -  Se pueden hacer sprints de “endurecimiento” a nivel global para reducir la deuda técnica y para validación y pruebas de nivel de lanzamiento
     -  Por ejemplo, el último sprint antes de cada lanzamiento
--  Cierta infraestructura común (kits de desarrollo, utilidades comunes de instalación, datos...) debe ir estableciéndose por adelantado
+-  Cierta infraestructura común (entornos de desarrollo, entornos de CI/CD, datos de prueba...) debe haberse establecido por adelantado
 
 ## Bibliografía
 
@@ -664,5 +634,5 @@ tienen que hacer sprint mapping coordinado
 ## 
 
 
-![](media/7i_GPS-S08-Scrum-Roles-p61-0.png)
+![](media/7i_GPS-S08-Scrum-Roles y Estructuración de Equipos-p66-0.png)
 

@@ -24,7 +24,6 @@
 
 -  Error : en Scrum se empieza sin hacer planificación, se lanza el primer sprint y los detalles se completan sobre la marcha
 -  Realidad : en Scrum se planifica en varios niveles de detalle y en diversos momentos
-    -  Puede que incluso se haga más planificación que con metodologías tradicionales
 
 ## Principios de la planificación
 
@@ -33,7 +32,12 @@
     -  Sin este plan no sabemos dónde vamos, ni podemos coordinar gente y actividades    
         -  Esto es, al menos, cierto en parte
 -  En la aproximación Scrum no hacemos  toda  la planificación al principio
-    -  Hacemos una parte y el resto  just-in-time
+    -  Hacemos una parte
+    -  El resto  just-in-time
+
+## Principios de la planificación
+
+
 -  A partir de cierto punto en el tiempo, carecemos de la información necesaria para que el plan sea fiable, por eso queremos:
     -  Una planificación inicial que ayude sin ser excesiva
     -  Mantener opciones de planificación abiertas hasta el último momento responsable
@@ -70,9 +74,9 @@
     -  Porque nos dan  feedback  antes
     -  Porque en general mejoran el retorno de la inversión    
         -  Pueden generar beneficio económico antes
-    -  Para empezar, habrá un producto mínimo viable    
-        -  Menos que eso no se puede lanzar
-        -  Depende mucho de tu mercado
+-  Para empezar, habrá un producto mínimo viable
+    -  Menos que eso no se puede lanzar
+    -  Depende mucho de tu mercado
 -  Es mejor planificar para aprender rápido y pivotar
     -  Haz, aprende y cambia si hace falta
     -  Pivotar es cambiar de dirección pero manteniendo un apoyo en lo que ya sabes/tienes hecho
@@ -80,16 +84,20 @@
 ## 
 
 
-![](media/7i_GPS-S07-Scrum-Planificación-p8-0.png)
-![](media/7i_GPS-S07-Scrum-Planificación-p8-1.png)
+![](media/7i_GPS-S07-Scrum-Planificación-p9-0.png)
+![](media/7i_GPS-S07-Scrum-Planificación-p9-1.png)
 
-## La falacia del coste irrecuperable (sunk cost)
+## La falacia del coste hundido (sunk cost)
 
 
 -  En teoría, haber hecho una inversión (tiempo, dinero) en algo no debería afectarnos a la hora de tomar decisiones racionales sobre ese algo
     -  Por ejemplo, si tenemos unas acciones cuyo valor ha bajado mucho, y un análisis económico indica que la cosa probablemente irá a peor, lo racional sería venderlas cuanto antes e invertir en algo con mejores perspectivas
 -  En la práctica, la aversión a la pérdida y otros sesgos cognitivos hacen que no nos comportemos racionalmente en este tipo de situaciones
     -  En el ejemplo, podemos preferir “aguantar” las acciones confiando en que aún pueden recuperar su valor
+
+## La falacia del coste hundido (sunk cost)
+
+
 -  Esta falacia tiene dos características principales
     -  Una vez hecha una inversión (tiempo/dinero) somos muy optimistas sobre sus beneficios
     -  Si nos vemos personalmente responsables de haber hecho una inversión (tiempo/dinero), somos más propensos a caer en esta falacia
@@ -104,7 +112,7 @@ Planificación multinivel
 ## 
 
 
-![](media/7i_GPS-S07-Scrum-Planificación-p11-0.png)
+![](media/7i_GPS-S07-Scrum-Planificación-p13-0.png)
 
 ## Niveles de planificación
 
@@ -118,6 +126,10 @@ Planificación multinivel
     -  No la vamos a ver porque no está en el ámbito de la gestión de proyectos
 -  De producto
     -  Captura la esencia de un producto potencial y diseña un plan aproximado para su creación
+
+## Niveles de planificación
+
+
 -  De lanzamiento
     -  Típicamente entre tres y nueve meses
     -  Busca un equilibrio entre el valor que se entrega al cliente (características funcionales y no funcionales, calidad) y las restricciones de alcance, calendario y presupuesto
@@ -199,7 +211,7 @@ Planificación de producto
 ## La visión: posibles formatos
 
 
-![](media/7i_GPS-S07-Scrum-Planificación-p20-0.svm)
+![](media/7i_GPS-S07-Scrum-Planificación-p23-0.svm)
 
 ## Pila del producto de alto nivel
 
@@ -220,6 +232,10 @@ Planificación de producto
     -  Un ejemplo es Ubuntu, que cada año lanza dos nuevas versiones, en Abril y en Octubre
     -  Esto puede ser complementario a una estrategia de lanzamientos menores más frecuentes    
         -  Ubuntu tiene frecuentes actualizaciones de mantenimiento entre versiones
+
+## Hoja de ruta del producto (product roadmap)
+
+
 -  Tiene que considerar a los clientes
     -  Si hay varios segmentos de clientes, la hoja de ruta indica cuándo y cómo se aborda cada segmento
 -  Tiene que considerar aspectos tecnológicos y arquitecturales de alto nivel
@@ -234,7 +250,7 @@ Planificación de producto
 Copyright © 2012 , Kenneth S. Rubin and Innolution, LLC. All Rights Reserved.
 ```
 
-![](media/7i_GPS-S07-Scrum-Planificación-p23-0.png)
+![](media/7i_GPS-S07-Scrum-Planificación-p27-0.png)
 
 ## Otras actividades
 
@@ -254,8 +270,7 @@ Planificación de lanzamientos (para un producto dado)
     -  Las nuevas versiones que se van publicando
     -  Cada sprint, cada N sprints, o incluso cada característica implementada (despliegue continuo)
 -  Independientemente de esto, una cierta planificación de largo plazo y alto nivel suele ser útil
-    -  Planificación de lanzamientos    
-        -  Dar una idea la funcionalidad que entrará en cada uno de los próximos lanzamientos
+    -  Que dé una idea la funcionalidad que entrará en cada uno de los próximos lanzamientos
 
 ## Planificación de lanzamiento (release planning)
 
@@ -266,6 +281,10 @@ Planificación de lanzamientos (para un producto dado)
 -  Se hace una inicial después de la planificación de producto y antes del primer sprint asociado con el lanzamiento
     -  Como mínimo hay que decidir cuánto se hará en el primer lanzamiento frente a cuándo estará disponible    
         -  Podemos planear hacer muchas cosas pero el lanzamiento tardará más, o al revés
+
+## Planificación de lanzamiento (release planning)
+
+
 -  Para tener idea de cuánto se puede hacer para una fecha dada, o cuándo se podrá entregar una funcionalidad concreta, hay que estimar suficientes entradas de la pila del producto
 -  Se puede visualizar poniendo líneas en la pila
     -  Por encima de cada línea están las PBI planificadas para ese lanzamiento
@@ -273,8 +292,8 @@ Planificación de lanzamientos (para un producto dado)
 ## 
 
 
-![](media/7i_GPS-S07-Scrum-Planificación-p28-0.png)
-![](media/7i_GPS-S07-Scrum-Planificación-p28-1.png)
+![](media/7i_GPS-S07-Scrum-Planificación-p33-0.png)
+![](media/7i_GPS-S07-Scrum-Planificación-p33-1.png)
 
 ## Planificación de lanzamientos
 
@@ -290,16 +309,16 @@ Planificación de lanzamientos (para un producto dado)
         -  Visión, pila de alto nivel, hoja de ruta
     -  Las velocidades de los equipos Scrum involucrados
 
-## Actividades de planificación de lanzamientos
+## Cómo planificar lanzamientos
 
 
--  Comprobar, y actualizar si es necesario, las restricciones de alcance, fecha y presupuesto del producto
--  Grooming  de la pila del producto
+-  Hacer  grooming  de la pila del producto
 -  Chequear que el mínimo conjunto de características para cada lanzamiento es adecuado desde la perspectiva del cliente
     -  Que cada lanzamiento es un producto mínimo viable, o un incremento de producto mínimo viable, adecuado
 -  Mantener un plan de lanzamientos
     -  Con la precisión mínima suficiente
     -  Cuándo terminaremos, y qué características tendremos en, cada lanzamiento
+-  Comprobar, y actualizar si es necesario, las  restricciones de alcance, fecha y presupuesto  del producto
 
 ## Restricciones para los lanzamientos
 
@@ -329,7 +348,7 @@ Planificación de lanzamientos (para un producto dado)
 
 -  Esta circunstancia no es común
     -  Es poco habitual que alcance y fecha estén prefijados, pero que el presupuesto sí que sea flexible
--  Tanto alcance como fecha son difíciles de prefijar
+-  Tanto el alcance como la fecha son difíciles de prefijar
     -  Así que no es buena señal que ambos lo estén
 -  Alcance y fecha se oponen frontalmente
     -  Normalmente alguno acaba por ceder
@@ -342,7 +361,6 @@ Planificación de lanzamientos (para un producto dado)
 
 
 -  Hay unas características fundamentales que tienen que estar sí o sí
-    -  P.ej., el mínimo producto viable
 -  No tenemos una fecha límite estricta
     -  Notad que si estiramos la fecha límite, estamos estirando también el presupuesto, así que tampoco podremos eternizarnos
 -  Scrum es adecuado, aunque no sea la situación ideal
@@ -353,7 +371,7 @@ Planificación de lanzamientos (para un producto dado)
 
 -  Acordamos una fecha límite clara y un presupuesto final con el cliente
     -  Pero, a cambio, pactamos flexibilidad con la funcionalidad
--  Es la aproximación más compatible con los principios de Scrum
+-  Es la  aproximación más compatible con los principios de Scrum
 -  Como desarrollamos primero lo más prioritario para el cliente, generalmente no tendremos que dejar de lado nada importante
     -  Esto solo funciona si tenemos una definición de “hecho” fuerte    
         -  Así, hasta lo hecho durante los primeros sprints será lo bastante bueno como para producción
@@ -374,8 +392,8 @@ Planificación de lanzamientos (para un producto dado)
             -  De nuevo con márgenes de confianza
     -  Opcionalmente un mapa de sprints    
         -  Idea general de qué PBI se implementarán en los próximos N sprints        
-            -  Recordad que cada lanzamiento planificado requerirá varios sprints
-        -  De corto plazo y teniendo claro que eso no puede sustituir a la planificación de cada sprint conforme avancemos
+            -  Cada lanzamiento planificado requerirá típicamente varios sprints
+        -  Teniendo claro que eso no puede sustituir a la planificación de cada sprint conforme avancemos
 
 ##  Planificación de lanzamientos con alcance prefijado
 
@@ -383,7 +401,7 @@ Planificación de lanzamientos con alcance prefijado
 
 ## Planificación con alcance prefijado
 
-1. Haz  grooming  de la pila del producto hasta abarcar al menos las PBI que tienes que implementar (ese alcance prefijado) 2. Suma el tamaño total de esas PBI 3. Calcula la velocidad del equipo como un rango 4. Divide el tamaño total por la velocidad más rápida y redondea hacia arriba Ese es el número de sprints mínimo necesario 5. Lo mismo con la velocidad más lenta Ese es el número de sprints máximo que se tardará
+1. Haz  grooming  de la pila del producto hasta abarcar al menos las PBI que tienes que implementar Esas PBI son el alcance prefijado 2. Suma el tamaño total de esas PBI 3. Calcula la velocidad del equipo como un rango 4. Divide el tamaño total por la velocidad más rápida y redondea hacia arriba Ese es el número de sprints mínimo necesario 5. Lo mismo con la velocidad más lenta Ese es el número de sprints máximo que se tardará
 
 ## Planificación con alcance prefijado
 
@@ -402,12 +420,12 @@ Planificación de lanzamientos con alcance prefijado
 ## 
 
 
-![](media/7i_GPS-S07-Scrum-Planificación-p41-0.png)
+![](media/7i_GPS-S07-Scrum-Planificación-p46-0.png)
 
 ## 
 
 
-![](media/7i_GPS-S07-Scrum-Planificación-p42-0.png)
+![](media/7i_GPS-S07-Scrum-Planificación-p47-0.png)
 
 ##  Planificación de lanzamientos con fecha prefijada
 
@@ -420,7 +438,7 @@ Planificación de lanzamientos con fecha prefijada
 
 ## Planificación con fecha prefijada
 
-1. Determina cuántos sprints se harán para esa fecha 2. Haz  grooming  de la pila del producto que cubra bastantes entradas como para llegar con trabajo a esa fecha 3. Calcula la velocidad del equipo como un rango 4. Multiplica la mínima por el número de sprints Ese número de puntos de historia de la pila del producto serán las características que “se tendrán” 5. Lo mismo con la máxima Serán las que “podrían estar”
+1. Determina cuántos sprints se harán para esa fecha Los sprints tienen un tamaño fijo, calcular esto es trivial 2. Haz  grooming  de la pila del producto que cubra bastantes entradas como para llegar con trabajo a esa fecha 3. Calcula la velocidad del equipo como un rango 4. Multiplica la mínima por el número de sprints Ese número de puntos de historia de la pila del producto serán las características que “se tendrán” 5. Lo mismo con la máxima Serán las que “podrían estar”
 
 ## Planificación con fecha prefijada
 
@@ -434,20 +452,20 @@ Planificación de lanzamientos con fecha prefijada
 
 -  Una vez sabemos exactamente cuántos sprints vamos a emplear, hay que comunicar cuántas características vamos a poder completar, y las que llevamos completadas, tras cada sprint
     -  Los diagramas de trabajo pendiente y completado ( burndown  y  burnup)  normales no son adecuados para esto
-    -  Pero podemos crear un diagrama de trabajo completado especial para esto
+    -  Podemos crear un diagrama de trabajo completado especial para esto, aunque va a ser menos claro y más complicado de mantener
 
 ## 
 
 
-![](media/7i_GPS-S07-Scrum-Planificación-p48-0.png)
+![](media/7i_GPS-S07-Scrum-Planificación-p53-0.png)
 
-##  Estimación de costes tras una planificacion de lanzamientos
+##  Estimación de costes tras una planificación de lanzamientos
 
-Estimación de costes tras una planificacion de lanzamientos
+Estimación de costes tras una planificación de lanzamientos
 
 ## Estimar coste (fecha o alcance prefijados)
 
-1. Determina quién forma el equipo 2. Determina la longitud de sprint 3. Calcula coste del sprint P.ej. el sueldo de cada miembro del equipo y la longitud del mismo (más otros costes más o menos fijos, pero esto debería dar una idea) 4a. Si es la fecha la prefijada Número de sprints * coste por sprint 4b. Si es el alcance el prefijado Entre número de sprints mínimo * coste por sprint 
+1. Determina quién forma el equipo 2. Determina la longitud de sprint 3. Calcula el coste del sprint P.ej. el sueldo de cada miembro del equipo y la longitud del mismo (más otros costes más o menos fijos, pero esto debería dar una idea) 4a. Si es la fecha la prefijada Número de sprints * coste por sprint 4b. Si es el alcance el prefijado Entre número de sprints mínimo * coste por sprint 
 
 ## Estima el coste
 
@@ -471,12 +489,12 @@ Estimación de costes tras una planificacion de lanzamientos
 -  En 6 sprints: 78500
 -  En 8 sprints: 102500
 
-## Atención: “calidad variable”
+## Atención: calidad “flexible”
 
 
 -  Si restringimos demasiado el alcance, la fecha y el presupuesto, la calidad se vuelve “flexible”
     -  Por cumplir las exigencias de alcance, fecha y presupuesto, entregaremos un producto de baja calidad que puede no satisfacer al cliente    
-        -  Generalmente esto no será obvio para el cliente hasta que el producto se haya puesto en producción y ya lleve un tiempo en marcha
+        -  Generalmente esto no será obvio para el cliente hasta que el producto se haya puesto en producción
 -  Esto sucede frecuentemente en los proyectos “llave en mano” y en los proyectos que se otorgan en subastas a la baja
     -  P.ej., los contratos típicos con la administración pública o empresas grandes
     -  Seguramente es la tipología de contratación más frecuente    
@@ -492,7 +510,7 @@ Planificación de sprint y diaria
 -  Al principio de cada sprint
 -  El equipo crea la pila del sprint
     -  Entradas de la pila del producto para el sprint y las tareas que hay que completar para asegurarse de que estén hechas
--  La veremos en detalle en el próximo tema
+-  La hemos visto en el tema de sprints
 
 ## Mapa de sprints
 
@@ -577,6 +595,8 @@ Póquer de planificación ( Planning poker )
     -  No se busca un compromiso, se busca alcanzar un  consenso  desde la perspectiva del equipo    
         -  Que suele ser mejor que la estimación de cualquier miembro por separado
 -  La discusión que se produce es valiosa porque saca a la luz asunciones y detalles importantes de las PBI y ayuda al equipo a entenderlas mejor
+-  Es una herramienta que puede ser útil, especialmente al principio de un proyecto nuevo o al formar un equipo nuevo
+    -  Pero como todo en Scrum, cada equipo tendrá que decidir si, y cuándo, les resulta útil
 
 ## Bibliografía
 
@@ -587,5 +607,5 @@ Póquer de planificación ( Planning poker )
 ## 
 
 
-![](media/7i_GPS-S07-Scrum-Planificación-p66-0.png)
+![](media/7i_GPS-S07-Scrum-Planificación-p71-0.png)
 
