@@ -62,7 +62,7 @@ nav:
   - Roles y estructuración de equipos: 7i_GPS-S08-Scrum-Roles y Estructuración de Equipos.md
   - Las Pruebas (Tests) en Scrum: 7i_GPS-T01-Técnicas-TestsEnProyectosÁgiles.md
   - Proyectos fallidos y análisis de las causas raíz: 7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis.md
-  - Arquitectura ágil y dedua tećnica: 7i_GPS-T04-Técnicas-ArquitecturaYDeudaTécnica.md
+  - Arquitectura ágil y deuda tećnica: 7i_GPS-T04-Técnicas-ArquitecturaYDeudaTécnica.md
 
 markdown_extensions:
   - abbr
