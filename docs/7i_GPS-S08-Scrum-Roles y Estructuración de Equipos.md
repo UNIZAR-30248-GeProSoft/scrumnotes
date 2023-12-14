@@ -266,7 +266,7 @@ Managers
 ## Managers
 
 
--  En este tema transparencias, cuando hablemos de manager nos referiremos esencialmente al primer nivel, o como mucho a alguno de los primeros escalones del segundo
+-  En estas transparencias, cuando hablemos de manager nos referiremos esencialmente al primer nivel, o como mucho a alguno de los primeros escalones del segundo
     -  Que son los más cercanos a la gestión de los proyectos
 -  Cada empresas y organización que use Scrum tendrá que encontrar como compatibilizarlo con su estructura organizativa y qué papeles pueden jugar sus managers
 
@@ -283,25 +283,19 @@ Managers
 ## Managers
 
 
--  El trabajo de un/a manager c onsiste en obtener los mejores resultados posibles de un grupo de gente que trabaja junta
--  Esto puede incluir, entre otras cosas:
-    -  Crear un equipo que trabaje bien    
-        -  Incluyendo tomar decisiones sobre a quién contratar y/o despedir
-    -  Apoyar a cada persona de ese equipo a alcanzar sus objetivos profesionales    
-        -  Incluyendo tomar decisiones sobre a quién promocionar
-    -  Crear procesos que faciliten que el trabajo se haga eficientemente y sin obstáculos
+-  El trabajo de un/a manager consiste en obtener los mejores resultados posibles de un grupo de gente que trabaja junta
+-  Creando un equipo que trabaje bien
+    -  Esto incluye tomar decisiones sobre a quién contratar, despedir o promocionar
+-  Creando procesos que faciliten que el trabajo se haga eficientemente y sin obstáculos
 
 ## Managers
 
 
--  Para hacer su trabajo, se espera que un/a manager lleve a cabo distintas tareas:
-    -  Reuniones uno a uno    
+-  Apoyando a cada persona de ese equipo a alcanzar sus objetivos profesionales
+    -  Realizando reuniones uno a uno    
         -  Permiten crear una conexión humana entre manager y managed
         -  Son un contexto privado en el que poder tratar cualquier tema profesional que sea necesario
-        -  No tiene sentido usarlas para reportar el estado de un proyecto        
-            -  Para esto es mejor un e-mail
-    -  Proporcionar feedback y guía    
-        -  Feedback sobre el desempeño individual
+    -  Dando feedback sobre el desempeño individual    
         -  El feedback es más útil cuanto más pronto se recibe
         -  Los halagos deberían ser públicos (al menos un poco públicos), y las críticas deberían ser privadas
 
@@ -380,7 +374,7 @@ Staff engineers
     -  Decisiones técnicas que afectan a varios grupos, o incluso a toda la empresa
     -  Decisiones a medio y largo plazo    
         -  P.ej., en qué tecnologías invertir, qué plataformas estandarizar dentro de la empresa etc.
--  En una empresa pequeña, puede haber un CTO ( chief technology officer ), que es un manager, y que asume el papel de staff engineer
+-  En una empresa pequeña, puede haber un CTO ( chief technology officer ), que es un manager/ejecutivo, y que asume el papel de staff engineer
     -  Al ser pequeña, un CTO puede estar pendiente de todo lo que se hace en esa empresa
     -  Hay un cierto riesgo de que tome decisiones de gestión contrarias al juicio técnico de los ingenieros
 
@@ -396,13 +390,12 @@ Staff engineers
 
 
 -  Liderazgo
-    -  Tu nivel de antigüedad es equivalente a la de algún/a manager    
+    -  Tu nivel de antigüedad ( seniority ) es equivalente a la de algún/a manager    
         -  Y conforme avanzas, será equivalente a la de un/a manager de nivel superior
-    -  Como staff engieneer se espera que tu trabajo tenga más impacto en la organización    
-        -  Eso requiere liderar a gente
+    -  Como staff engineer se espera que tu trabajo tenga más impacto en la organización
 -  No es el mismo liderazgo que ejercen los managers
     -  No tienes a gente directamente a tu cargo
-    -  No evalúas sus prestaciones
+    -  No evalúas su desempeño
     -  No apruebas peticiones de gasto o de vacaciones
     -  No despides ni promocionas a nadie
 
@@ -411,11 +404,14 @@ Staff engineers
 
 -  Es un liderazgo técnico
     -  Requiere conocimientos técnicos y experiencia
-    -  Revisas artefactos técnicos (diseños, código...), considerando si son buenos, si se alinean con objetivos de la organización y si encajan con lo que hacen otros equipos
-    -  Puedes dar formación y mentorizaje técnicos
+    -  Revisas artefactos técnicos (diseños, código…), considerando    
+        -  Si son buenos
+        -  Si se alinean con los objetivos de la organización
+        -  Si encajan con lo que hacen otros equipos
+    -  Puedes dar formación y mentorizaje
     -  Puedes establecer dirección técnica    
         -  P.ej., seleccionar nuevas tecnologías de interés para la organización
-    -  Puedes inspirar a otros ejerciendo tus habilidades técnicas
+    -  Puedes inspirar a otros ejerciendo tus habilidades de ingeniería
 
 ## El trabajo de staff engineer
 
@@ -425,7 +421,7 @@ Staff engineers
 -  Tienes que entender los compromisos que hay que evaluar al tomar una decisión técnica
 -  Normalmente no programas mucho
     -  Pero sí que es común que trabajes en un problema ambiguo o complicado solo hasta que este problema se vuelva tratable y ya puede ser abordado por ingenieros menos experimentados
-    -  Sí que puede ser que mirar el código pueda ser la forma más eficiente de resolver un problema    
+    -  Sí puede ser que mirar el código sea la forma más eficiente de resolver algún problema    
         -  También es posible que lo sea mantener una documentación buena y actualizada o hacer un análisis cuantitativo de datos existentes que ayuden a tomar las mejores decisiones
 
 ## El trabajo de staff engineer
@@ -435,7 +431,11 @@ Staff engineers
     -  Seguirás teniendo un/a manager    
         -  Pero no puedes esperar que te diga qué hacer, cómo abordar un problema o qué problemas son los más importantes
         -  Tu manager te tiene que dar información y contexto, pero tú deberías decir qué es importante y qué no
-    -  Parte de trabajo es crear tu propia “pila de producto” (es un símil, no hablamos de la de Scrum) de trabajo de alto impacto y valioso
+    -  Parte de trabajo es crear tu propia lista de tareas con trabajo de alto impacto y valioso
+
+## El trabajo de staff engineer
+
+
 -  Tienes que asegurarte de que en tu organización hay buenas direcciones técnicas
     -  Que las decisiones técnicas se toma bien    
         -  Dentro de los equipos, entre varios equipos y a nivel organización
@@ -458,7 +458,7 @@ Directores de proyecto
 ## 
 
 
-![](media/7i_GPS-S08-Scrum-Roles y Estructuración de Equipos-p45-0.png)
+![](media/7i_GPS-S08-Scrum-Roles y Estructuración de Equipos-p46-0.png)
 
 ## Directores de proyecto
 
@@ -482,10 +482,10 @@ Resolución de problemas en equipo
 
 -  El tipo de problema a resolver afecta a la capacidad de un equipo para resolverlo
 -  Si el problema es de tipo Eureka (hay que dar con una “idea feliz”)
-    -  Si un grupo contiene k individuos y Pi es la probabilidad de que un individuo encuentre la solución, la probabilidad de que el grupo encuentre la solución es      1 - (1 - Pi) k
-    -  La probabilidad de un grupo de resolver el problema es pues mayor que la de un individuo y aumenta con el número de individuos
+    -  Si un grupo contiene k personas y Pi es la probabilidad de que una persona encuentre la solución, la probabilidad de que el grupo encuentre la solución es      1 - (1 - Pi) k
+    -  La probabilidad de un grupo de resolver el problema es pues mayor que la de una persona y aumenta con el número de personas
 -  Sin embargo, para problemas de tipo  brainstorm  (producir el mayor número de ideas creativas que se pueda), los individuos superan consistentemente a los grupos
-    -  Midiendo la cantidad y calidad de ideas generadas por persona
+    -  Si medimos la cantidad y calidad de ideas generadas por persona
     -  A pesar de que la  , la creencia de que el  brainstorming  funciona mejor si se hace en grupo sigue estando muy extendida
 
 ## Resolución de problemas en equipo
@@ -543,7 +543,7 @@ Estructuración de equipos Scrum
 ## 
 
 
-![](media/7i_GPS-S08-Scrum-Roles y Estructuración de Equipos-p56-0.png)
+![](media/7i_GPS-S08-Scrum-Roles y Estructuración de Equipos-p57-0.png)
 
 ## <u>Equipos de componentes</u>
 
@@ -566,7 +566,7 @@ Estructuración de equipos Scrum
 ## 
 
 
-![](media/7i_GPS-S08-Scrum-Roles y Estructuración de Equipos-p59-0.png)
+![](media/7i_GPS-S08-Scrum-Roles y Estructuración de Equipos-p60-0.png)
 
 ## <u>Coordinación de múltiples equipos: Scrum de Scrums</u>
 
@@ -588,7 +588,7 @@ Estructuración de equipos Scrum
 ## 
 
 
-![](media/7i_GPS-S08-Scrum-Roles y Estructuración de Equipos-p62-0.png)
+![](media/7i_GPS-S08-Scrum-Roles y Estructuración de Equipos-p63-0.png)
 
 ## Coordinación de múltiples equipos: Tren de lanzamientos
 
@@ -598,7 +598,7 @@ Estructuración de equipos Scrum
 -  Los equipos tienen sprints de igual duración que empiezan y terminan en las mismas fechas
     -  Esto facilita sincronizar a todos los equipos del producto
 -  Los equipos se suelen agrupar en áreas de características
-    -  Por ejemplo para un reproductor de música en local y en streaming podríamos tener:    
+    -  Para un reproductor de música en local y en streaming podríamos tener tres áreas:    
         -  Gestión de las colecciones de música
         -  Reproducción de música
         -  Analítica de datos y recomendaciones
@@ -634,5 +634,5 @@ Estructuración de equipos Scrum
 ## 
 
 
-![](media/7i_GPS-S08-Scrum-Roles y Estructuración de Equipos-p66-0.png)
+![](media/7i_GPS-S08-Scrum-Roles y Estructuración de Equipos-p67-0.png)
 

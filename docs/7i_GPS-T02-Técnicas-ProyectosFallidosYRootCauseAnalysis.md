@@ -652,10 +652,6 @@ Ejemplo
 
 
 -  1. Escribe el problema:  No llegamos a cumplir las fechas de lanzamiento comprometidas
-```
-Illustration: (c) 2011, Henrik Kniberg,The Pragmatic Programmers, LLC.
-```
-
 ![](media/7i_GPS-T02-Técnicas-ProyectosFallidosYRootCauseAnalysis-p63-0.png)
 
 ## Ejemplo
